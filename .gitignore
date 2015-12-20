@@ -1,0 +1,114 @@
+#EXTM3U
+IPTV Spain Test Channels
+#EXTINF:-1,ES: LA 1 HD
+http://selling-team.net:8000/live/ali/ali/7663.ts
+#EXTINF:-1,ES : TVE 1
+http://selling-team.net:8000/live/ali/ali/2265.ts
+#EXTINF:-1,ES : La 2
+http://selling-team.net:8000/live/ali/ali/2266.ts
+#EXTINF:-1,ES : Antenna 3
+http://selling-team.net:8000/live/ali/ali/2267.ts
+#EXTINF:-1,ES : Cuatro
+http://selling-team.net:8000/live/ali/ali/2268.ts
+#EXTINF:-1,ES : Telecinco
+http://selling-team.net:8000/live/ali/ali/2269.ts
+#EXTINF:-1,ES : La Sexta
+http://selling-team.net:8000/live/ali/ali/2270.ts
+#EXTINF:-1,ES : TVI International
+http://selling-team.net:8000/live/ali/ali/2271.ts
+#EXTINF:-1,ES : Clan TVE
+http://selling-team.net:8000/live/ali/ali/2272.ts
+#EXTINF:-1,ES : Nova
+http://selling-team.net:8000/live/ali/ali/2273.ts
+#EXTINF:-1,ES : TVE 24
+http://selling-team.net:8000/live/ali/ali/2274.ts
+#EXTINF:-1,ES : 24 Horas
+http://selling-team.net:8000/live/ali/ali/2275.ts
+#EXTINF:-1,ES : Andalucia
+http://selling-team.net:8000/live/ali/ali/2276.ts
+#EXTINF:-1,ES : TV 3 Catalunya
+http://selling-team.net:8000/live/ali/ali/2277.ts
+#EXTINF:-1,ES : Foro TV
+http://selling-team.net:8000/live/ali/ali/2278.ts
+#EXTINF:-1,ES : A & E
+http://selling-team.net:8000/live/ali/ali/2279.ts
+#EXTINF:-1,ES : 40 TV
+http://selling-team.net:8000/live/ali/ali/2280.ts
+#EXTINF:-1,ES : Sol Musica
+http://selling-team.net:8000/live/ali/ali/2281.ts
+#EXTINF:-1,—— CINE ——
+http://selling-team.net:8000/live/ali/ali/2282.ts
+#EXTINF:-1,ES : Canal 1
+http://selling-team.net:8000/live/ali/ali/2283.ts
+#EXTINF:-1,ES : Canal 1 … 30
+http://selling-team.net:8000/live/ali/ali/2284.ts
+#EXTINF:-1,ES : Canal 2
+http://selling-team.net:8000/live/ali/ali/2285.ts
+#EXTINF:-1,ES: Canal Accion HD
+http://selling-team.net:8000/live/ali/ali/7669.ts
+#EXTINF:-1,ES : C Accion
+http://selling-team.net:8000/live/ali/ali/2286.ts
+#EXTINF:-1,ES: Canal + Comedia HD
+http://selling-team.net:8000/live/ali/ali/7662.ts
+#EXTINF:-1,ES : C Comedia
+http://selling-team.net:8000/live/ali/ali/2287.ts
+#EXTINF:-1,ES: Canal Dcine HD
+http://selling-team.net:8000/live/ali/ali/7668.ts
+#EXTINF:-1,ES : C Dcine
+http://selling-team.net:8000/live/ali/ali/2288.ts
+#EXTINF:-1,ES : Dcine Español
+http://selling-team.net:8000/live/ali/ali/2289.ts
+#EXTINF:-1,ES: Hollywood HD
+http://selling-team.net:8000/live/ali/ali/7664.ts
+#EXTINF:-1,ES : Hollywood
+http://selling-team.net:8000/live/ali/ali/2290.ts
+#EXTINF:-1,ES : TNT
+http://selling-team.net:8000/live/ali/ali/2291.ts
+#EXTINF:-1,ES Eurosport
+http://iptv.proff.co:15003/live/One/One/1390.ts
+#EXTINF:-1,ES Esport 3 Cat
+http://iptv.proff.co:15003/live/One/One/1391.ts
+#EXTINF:-1,POR BENFICA TV 2
+http://iptv.proff.co:15003/live/One/One/1417.ts
+#EXTINF:-1,POR BENFICA TV 1 HD
+http://iptv.proff.co:15003/live/One/One/1418.ts
+
+#EXTINF:-1,—— ENTRETENIMIENTO ——
+#EXTINF:-1,ES : Canal Xtra
+http://selling-team.net:8000/live/ali/ali/2293.ts
+#EXTINF:-1,ES: FOX HD
+http://selling-team.net:8000/live/ali/ali/7665.ts
+#EXTINF:-1,ES : Fox
+http://selling-team.net:8000/live/ali/ali/2294.ts
+#EXTINF:-1,ES : Fox Life
+http://selling-team.net:8000/live/ali/ali/2295.ts
+#EXTINF:-1,ES : AXN
+http://selling-team.net:8000/live/ali/ali/2296.ts
+#EXTINF:-1,ES : AXN White
+http://selling-team.net:8000/live/ali/ali/2297.ts
+#EXTINF:-1,ES : Calle 13
+http://selling-team.net:8000/live/ali/ali/2298.ts
+#EXTINF:-1,ES : Comedy Central
+http://selling-team.net:8000/live/ali/ali/2299.ts
+#EXTINF:-1,ES : Cosmo
+http://selling-team.net:8000/live/ali/ali/2300.ts
+#EXTINF:-1,ES : Canal 5
+http://selling-team.net:8000/live/ali/ali/2301.ts
+#EXTINF:-1,ES : Canal De Las Estrellas
+http://selling-team.net:8000/live/ali/ali/2302.ts
+#EXTINF:-1,ES : Fashion TV
+http://selling-team.net:8000/live/ali/ali/2303.ts
+#EXTINF:-1,ES : Canal Odisea
+http://selling-team.net:8000/live/ali/ali/2320.ts
+#EXTINF:-1,ES : Nat Geograph
+http://selling-team.net:8000/live/ali/ali/2321.ts
+#EXTINF:-1,ES : Historia
+http://selling-team.net:8000/live/ali/ali/2322.ts
+#EXTINF:-1,ES : Caza y Pesca
+http://selling-team.net:8000/live/ali/ali/2323.ts
+#EXTINF:-1,ES : Viajar
+http://selling-team.net:8000/live/ali/ali/2324.ts
+#EXTINF:-1,ES : Canal Cocina
+http://selling-team.net:8000/live/ali/ali/2325.ts
+#EXTINF:-1,ES : Canal Decasa
+http://selling-team.net:8000/live/ali/ali/2326.ts
