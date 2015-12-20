@@ -1,7 +1,7 @@
 #EXTM3U
 IPTV Spain Test Channels
 #EXTINF:-1,ES: LA 1 HD
-http://selling-team.net:8000/live/ali/ali/7663.m3u
+http://selling-team.net:8000/live/ali/ali/7663.ts
 #EXTINF:-1,ES : TVE 1
 http://selling-team.net:8000/live/ali/ali/2265.ts
 #EXTINF:-1,ES : La 2
