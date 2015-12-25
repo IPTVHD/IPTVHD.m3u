@@ -1,114 +1,827 @@
 #EXTM3U
-IPTV Spain Test Channels
-#EXTINF:-1,ES: LA 1 HD
-http://selling-team.net:8000/live/ali/ali/7663.ts
-#EXTINF:-1,ES : TVE 1
-http://selling-team.net:8000/live/ali/ali/2265.ts
-#EXTINF:-1,ES : La 2
-http://selling-team.net:8000/live/ali/ali/2266.ts
-#EXTINF:-1,ES : Antenna 3
-http://selling-team.net:8000/live/ali/ali/2267.ts
-#EXTINF:-1,ES : Cuatro
-http://selling-team.net:8000/live/ali/ali/2268.ts
-#EXTINF:-1,ES : Telecinco
-http://selling-team.net:8000/live/ali/ali/2269.ts
-#EXTINF:-1,ES : La Sexta
-http://selling-team.net:8000/live/ali/ali/2270.ts
-#EXTINF:-1,ES : TVI International
-http://selling-team.net:8000/live/ali/ali/2271.ts
-#EXTINF:-1,ES : Clan TVE
-http://selling-team.net:8000/live/ali/ali/2272.ts
-#EXTINF:-1,ES : Nova
-http://selling-team.net:8000/live/ali/ali/2273.ts
-#EXTINF:-1,ES : TVE 24
-http://selling-team.net:8000/live/ali/ali/2274.ts
-#EXTINF:-1,ES : 24 Horas
-http://selling-team.net:8000/live/ali/ali/2275.ts
-#EXTINF:-1,ES : Andalucia
-http://selling-team.net:8000/live/ali/ali/2276.ts
-#EXTINF:-1,ES : TV 3 Catalunya
-http://selling-team.net:8000/live/ali/ali/2277.ts
-#EXTINF:-1,ES : Foro TV
-http://selling-team.net:8000/live/ali/ali/2278.ts
-#EXTINF:-1,ES : A & E
-http://selling-team.net:8000/live/ali/ali/2279.ts
-#EXTINF:-1,ES : 40 TV
-http://selling-team.net:8000/live/ali/ali/2280.ts
-#EXTINF:-1,ES : Sol Musica
-http://selling-team.net:8000/live/ali/ali/2281.ts
-#EXTINF:-1,—— CINE ——
-http://selling-team.net:8000/live/ali/ali/2282.ts
-#EXTINF:-1,ES : Canal 1
-http://selling-team.net:8000/live/ali/ali/2283.ts
-#EXTINF:-1,ES : Canal 1 … 30
-http://selling-team.net:8000/live/ali/ali/2284.ts
-#EXTINF:-1,ES : Canal 2
-http://selling-team.net:8000/live/ali/ali/2285.ts
-#EXTINF:-1,ES: Canal Accion HD
-http://selling-team.net:8000/live/ali/ali/7669.ts
-#EXTINF:-1,ES : C Accion
-http://selling-team.net:8000/live/ali/ali/2286.ts
-#EXTINF:-1,ES: Canal + Comedia HD
-http://selling-team.net:8000/live/ali/ali/7662.ts
-#EXTINF:-1,ES : C Comedia
-http://selling-team.net:8000/live/ali/ali/2287.ts
-#EXTINF:-1,ES: Canal Dcine HD
-http://selling-team.net:8000/live/ali/ali/7668.ts
-#EXTINF:-1,ES : C Dcine
-http://selling-team.net:8000/live/ali/ali/2288.ts
-#EXTINF:-1,ES : Dcine Español
-http://selling-team.net:8000/live/ali/ali/2289.ts
-#EXTINF:-1,ES: Hollywood HD
-http://selling-team.net:8000/live/ali/ali/7664.ts
-#EXTINF:-1,ES : Hollywood
-http://selling-team.net:8000/live/ali/ali/2290.ts
-#EXTINF:-1,ES : TNT
-http://selling-team.net:8000/live/ali/ali/2291.ts
-#EXTINF:-1,ES Eurosport
-http://iptv.proff.co:15003/live/One/One/1390.ts
-#EXTINF:-1,ES Esport 3 Cat
-http://iptv.proff.co:15003/live/One/One/1391.ts
-#EXTINF:-1,POR BENFICA TV 2
-http://iptv.proff.co:15003/live/One/One/1417.ts
-#EXTINF:-1,POR BENFICA TV 1 HD
-http://iptv.proff.co:15003/live/One/One/1418.ts
-
-#EXTINF:-1,—— ENTRETENIMIENTO ——
-#EXTINF:-1,ES : Canal Xtra
-http://selling-team.net:8000/live/ali/ali/2293.ts
-#EXTINF:-1,ES: FOX HD
-http://selling-team.net:8000/live/ali/ali/7665.ts
-#EXTINF:-1,ES : Fox
-http://selling-team.net:8000/live/ali/ali/2294.ts
-#EXTINF:-1,ES : Fox Life
-http://selling-team.net:8000/live/ali/ali/2295.ts
-#EXTINF:-1,ES : AXN
-http://selling-team.net:8000/live/ali/ali/2296.ts
-#EXTINF:-1,ES : AXN White
-http://selling-team.net:8000/live/ali/ali/2297.ts
-#EXTINF:-1,ES : Calle 13
-http://selling-team.net:8000/live/ali/ali/2298.ts
-#EXTINF:-1,ES : Comedy Central
-http://selling-team.net:8000/live/ali/ali/2299.ts
-#EXTINF:-1,ES : Cosmo
-http://selling-team.net:8000/live/ali/ali/2300.ts
-#EXTINF:-1,ES : Canal 5
-http://selling-team.net:8000/live/ali/ali/2301.ts
-#EXTINF:-1,ES : Canal De Las Estrellas
-http://selling-team.net:8000/live/ali/ali/2302.ts
-#EXTINF:-1,ES : Fashion TV
-http://selling-team.net:8000/live/ali/ali/2303.ts
-#EXTINF:-1,ES : Canal Odisea
-http://selling-team.net:8000/live/ali/ali/2320.ts
-#EXTINF:-1,ES : Nat Geograph
-http://selling-team.net:8000/live/ali/ali/2321.ts
-#EXTINF:-1,ES : Historia
-http://selling-team.net:8000/live/ali/ali/2322.ts
-#EXTINF:-1,ES : Caza y Pesca
-http://selling-team.net:8000/live/ali/ali/2323.ts
-#EXTINF:-1,ES : Viajar
-http://selling-team.net:8000/live/ali/ali/2324.ts
-#EXTINF:-1,ES : Canal Cocina
-http://selling-team.net:8000/live/ali/ali/2325.ts
-#EXTINF:-1,ES : Canal Decasa
-http://selling-team.net:8000/live/ali/ali/2326.ts
+#EXTINF:-1, tvg-logo="IFC East.png" group-title="Entertainments",IFC East
+http://iptvcanales.com/xw/premium.php?cmd=164
+#EXTINF:-1, tvg-logo="Food Network East.png" group-title="Information",Food Network East
+http://iptvcanales.com/xw/premium.php?cmd=172
+#EXTINF:-1, tvg-logo="DIY Network USA.png" group-title="Information",DIY Network USA
+http://iptvcanales.com/xw/premium.php?cmd=174
+#EXTINF:-1, tvg-logo="History.png" group-title="Information",History
+http://iptvcanales.com/xw/premium.php?cmd=176
+#EXTINF:-1, tvg-logo="Oxygen.png" group-title="Entertainments",Oxygen
+http://iptvcanales.com/xw/premium.php?cmd=180
+#EXTINF:-1, tvg-logo="WE TV.png" group-title="Entertainments",WE TV
+http://iptvcanales.com/xw/premium.php?cmd=182
+#EXTINF:-1, tvg-logo="BBC America.png" group-title="Cinema",BBC America
+http://iptvcanales.com/xw/premium.php?cmd=184
+#EXTINF:-1, tvg-logo="Fox Sports 1 US.png" group-title="Sports",Fox Sports 1 US
+http://iptvcanales.com/xw/premium.php?cmd=190
+#EXTINF:-1, tvg-logo="MLB Network.png" group-title="Sports",MLB Network
+http://iptvcanales.com/xw/premium.php?cmd=192
+#EXTINF:-1, tvg-logo="NHL Network USA.png" group-title="Sports",NHL Network USA
+http://iptvcanales.com/xw/premium.php?cmd=194
+#EXTINF:-1, tvg-logo="Disney Channel East.png" group-title="Children's",Disney Channel East
+http://iptvcanales.com/xw/premium.php?cmd=196
+#EXTINF:-1, tvg-logo="Discovery Channel USA.png" group-title="Science",Discovery Channel USA
+http://iptvcanales.com/xw/premium.php?cmd=198
+#EXTINF:-1, tvg-logo="Fox News Channel.png" group-title="Information",Fox News Channel
+http://iptvcanales.com/xw/premium.php?cmd=208
+#EXTINF:-1, tvg-logo="HBO 2 East.png" group-title="Cinema",HBO 2 East
+http://iptvcanales.com/xw/premium.php?cmd=216
+#EXTINF:-1, tvg-logo="Showtime East.png" group-title="Information",Showtime East
+http://iptvcanales.com/xw/premium.php?cmd=218
+#EXTINF:-1, tvg-logo="The Movie Channel East.png" group-title="Cinema",The Movie Channel East
+http://iptvcanales.com/xw/premium.php?cmd=220
+#EXTINF:-1, tvg-logo="Encore East.png" group-title="Cinema",Encore East
+http://iptvcanales.com/xw/premium.php?cmd=222
+#EXTINF:-1, tvg-logo="Starz East.png" group-title="Cinema",Starz East
+http://iptvcanales.com/xw/premium.php?cmd=224
+#EXTINF:-1, tvg-logo="Discovery Home & Health Latinoamerica.png" group-title="Entertainments",Discovery Home & Health Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=252
+#EXTINF:-1, tvg-logo="Nat Geo Wild Latino America.png" group-title="Culture",Nat Geo Wild Latino America
+http://iptvcanales.com/xw/premium.php?cmd=254
+#EXTINF:-1, tvg-logo="Disney Channel Norte.png" group-title="Children's",Disney Channel Norte
+http://iptvcanales.com/xw/premium.php?cmd=256
+#EXTINF:-1, tvg-logo="A&E Latinoamerica.png" group-title="Entertainments",A&E Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=258
+#EXTINF:-1, tvg-logo="Paramount Channel Latinoamerica.png" group-title="Information",Paramount Channel Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=260
+#EXTINF:-1, tvg-logo="TNT America Latina.png" group-title="Entertainments",TNT America Latina
+http://iptvcanales.com/xw/premium.php?cmd=262
+#EXTINF:-1, tvg-logo="Golden.png" group-title="Cinema",Golden
+http://iptvcanales.com/xw/premium.php?cmd=264
+#EXTINF:-1, tvg-logo="Venus.png" group-title="For Adults",Venus
+http://iptvcanales.com/xw/premium.php?cmd=285
+#EXTINF:-1, tvg-logo="Sextreme.png" group-title="For Adults",Sextreme
+http://iptvcanales.com/xw/premium.php?cmd=287
+#EXTINF:-1, tvg-logo="Playboy TV Latin America.png" group-title="For Adults",Playboy TV Latin America
+http://iptvcanales.com/xw/premium.php?cmd=289
+#EXTINF:-1, tvg-logo="Pasiones.png" group-title="Entertainments",Pasiones
+http://iptvcanales.com/xw/premium.php?cmd=295
+#EXTINF:-1, tvg-logo="H2 Latinoamerica.png" group-title="Information",H2 Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=297
+#EXTINF:-1, tvg-logo="ESPN 2 Latinoamerica.png" group-title="Sports",ESPN 2 Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=301
+#EXTINF:-1, tvg-logo="Discovery Kids America Latina.png" group-title="Children's",Discovery Kids America Latina
+http://iptvcanales.com/xw/premium.php?cmd=309
+#EXTINF:-1, tvg-logo="Baby TV Latinoamerica.png" group-title="Children's",Baby TV Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=317
+#EXTINF:-1, tvg-logo="TLC Latinoamerica.png" group-title="Entertainments",TLC Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=327
+#EXTINF:-1, tvg-logo="TNT Series Latinoamerica.png" group-title="Entertainments",TNT Series Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=331
+#EXTINF:-1, tvg-logo="TBS America Latina.png" group-title="Entertainments",TBS America Latina
+http://iptvcanales.com/xw/premium.php?cmd=333
+#EXTINF:-1, tvg-logo="Tru TV America Latina.png" group-title="Entertainments",Tru TV America Latina
+http://iptvcanales.com/xw/premium.php?cmd=337
+#EXTINF:-1, tvg-logo="HTV.png" group-title="Music",HTV
+http://iptvcanales.com/xw/premium.php?cmd=341
+#EXTINF:-1, tvg-logo="Cinemax Latinoamerica.png" group-title="Cinema",Cinemax Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=343
+#EXTINF:-1, tvg-logo="Studio Universal.png" group-title="Cinema",Studio Universal
+http://iptvcanales.com/xw/premium.php?cmd=345
+#EXTINF:-1, tvg-logo="HBO 2 Latinoamerica.png" group-title="Cinema",HBO 2 Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=365
+#EXTINF:-1, tvg-logo="HBO Plus Oeste.png" group-title="Cinema",HBO Plus Oeste
+http://iptvcanales.com/xw/premium.php?cmd=369
+#EXTINF:-1, tvg-logo="Max Prime Este.png" group-title="Cinema",Max Prime Este
+http://iptvcanales.com/xw/premium.php?cmd=377
+#EXTINF:-1, tvg-logo="Max Prime Oeste.png" group-title="Cinema",Max Prime Oeste
+http://iptvcanales.com/xw/premium.php?cmd=379
+#EXTINF:-1, tvg-logo="MAX.png" group-title="Cinema",MAX
+http://iptvcanales.com/xw/premium.php?cmd=381
+#EXTINF:-1, tvg-logo="HBO Latinoamerica.png" group-title="Cinema",HBO Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=385
+#EXTINF:-1, tvg-logo="Universal Channel America Latina.png" group-title="Cinema",Universal Channel America Latina
+http://iptvcanales.com/xw/premium.php?cmd=387
+#EXTINF:-1, tvg-logo="National Geographic Latinoamerica.png" group-title="Information",National Geographic Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=395
+#EXTINF:-1, tvg-logo="NBC Miami.png" group-title="Information",NBC Miami
+http://iptvcanales.com/xw/premium.php?cmd=411
+#EXTINF:-1, tvg-logo="FOX Miami.png" group-title="Information",FOX Miami
+http://iptvcanales.com/xw/premium.php?cmd=413
+#EXTINF:-1, tvg-logo="VH1 Classic Europe.png" group-title="Entertainments",VH1 Classic Europe
+http://iptvcanales.com/xw/premium.php?cmd=415
+#EXTINF:-1, tvg-logo="Nick Jr Latinoamerica.png" group-title="Children's",Nick Jr Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=417
+#EXTINF:-1, tvg-logo="Cartoon Network Latinoamerica.png" group-title="Children's",Cartoon Network Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=421
+#EXTINF:-1, tvg-logo="Lifetime Latinoamerica.png" group-title="Entertainments",Lifetime Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=423
+#EXTINF:-1, tvg-logo="FOX Life.png" group-title="Entertainments",FOX Life
+http://iptvcanales.com/xw/premium.php?cmd=425
+#EXTINF:-1, tvg-logo="E! Latinoamerica.png" group-title="Entertainments",E! Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=427
+#EXTINF:-1, tvg-logo="MundoFox.png" group-title="Entertainments",MundoFox
+http://iptvcanales.com/xw/premium.php?cmd=429
+#EXTINF:-1, tvg-logo="FX Latino.png" group-title="Entertainments",FX Latino
+http://iptvcanales.com/xw/premium.php?cmd=431
+#EXTINF:-1, tvg-logo="Fox 1 Este.png" group-title="Cinema",Fox 1 Este
+http://iptvcanales.com/xw/premium.php?cmd=433
+#EXTINF:-1, tvg-logo="Fox Action Este.png" group-title="Cinema",Fox Action Este
+http://iptvcanales.com/xw/premium.php?cmd=435
+#EXTINF:-1, tvg-logo="Fox Action Oeste.png" group-title="Cinema",Fox Action Oeste
+http://iptvcanales.com/xw/premium.php?cmd=437
+#EXTINF:-1, tvg-logo="Fox 1 Oeste.png" group-title="Cinema",Fox 1 Oeste
+http://iptvcanales.com/xw/premium.php?cmd=439
+#EXTINF:-1, tvg-logo="Animal Planet Latinoamerica.png" group-title="Information",Animal Planet Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=441
+#EXTINF:-1, tvg-logo="Tooncast.png" group-title="Children's",Tooncast
+http://iptvcanales.com/xw/premium.php?cmd=443
+#EXTINF:-1, tvg-logo="Fox Sports 3 Latinoamerica.png" group-title="Sports",Fox Sports 3 Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=445
+#EXTINF:-1, tvg-logo="Syfy Latinoamerica.png" group-title="Entertainments",Syfy Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=447
+#EXTINF:-1, tvg-logo="HBO Family Latinoamerica.png" group-title="Cinema",HBO Family Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=449
+#EXTINF:-1, tvg-logo="HBO Signature Latinoamerica.png" group-title="Cinema",HBO Signature Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=451
+#EXTINF:-1, tvg-logo="HBO Plus Este.png" group-title="Cinema",HBO Plus Este
+http://iptvcanales.com/xw/premium.php?cmd=453
+#EXTINF:-1, tvg-logo="Investigation Discovery Latinoamerica.png" group-title="Information",Investigation Discovery Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=455
+#EXTINF:-1, tvg-logo="Fox Cinema.png" group-title="Cinema",Fox Cinema
+http://iptvcanales.com/xw/premium.php?cmd=457
+#EXTINF:-1, tvg-logo="Fox Comedy.png" group-title="Cinema",Fox Comedy
+http://iptvcanales.com/xw/premium.php?cmd=461
+#EXTINF:-1, tvg-logo="Fox Movies Latinoamerica.png" group-title="Cinema",Fox Movies Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=463
+#EXTINF:-1, tvg-logo="Fox Classics Latinoamerica.png" group-title="Cinema",Fox Classics Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=465
+#EXTINF:-1, tvg-logo="Fox Family.png" group-title="Cinema",Fox Family
+http://iptvcanales.com/xw/premium.php?cmd=467
+#EXTINF:-1, tvg-logo="Max UP Latinoamerica.png" group-title="Cinema",Max UP Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=469
+#EXTINF:-1, tvg-logo="Fox Sports 2 Latinoamerica.png" group-title="Sports",Fox Sports 2 Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=475
+#EXTINF:-1, tvg-logo="CineLatino.png" group-title="Cinema",CineLatino
+http://iptvcanales.com/xw/premium.php?cmd=477
+#EXTINF:-1, tvg-logo="Concert Channel.png" group-title="Music",Concert Channel
+http://iptvcanales.com/xw/premium.php?cmd=479
+#EXTINF:-1, tvg-logo="TCM America Latina.png" group-title="Cinema",TCM America Latina
+http://iptvcanales.com/xw/premium.php?cmd=481
+#EXTINF:-1, tvg-logo="VH1 Latino Norte.png" group-title="Entertainments",VH1 Latino Norte
+http://iptvcanales.com/xw/premium.php?cmd=483
+#EXTINF:-1, tvg-logo="AMC.png" group-title="Cinema",AMC
+http://iptvcanales.com/xw/premium.php?cmd=485
+#EXTINF:-1, tvg-logo="ITV 2.png" group-title="Information",ITV 2
+http://iptvcanales.com/xw/premium.php?cmd=487
+#EXTINF:-1, tvg-logo="FOX.png" group-title="Information",FOX
+http://iptvcanales.com/xw/premium.php?cmd=491&f=.m3u
+#EXTINF:-1, tvg-logo="SKY News.png" group-title="Information",SKY News
+http://iptvcanales.com/xw/premium.php?cmd=493
+#EXTINF:-1, tvg-logo="BBC News.png" group-title="Information",BBC News
+http://iptvcanales.com/xw/premium.php?cmd=495
+#EXTINF:-1, tvg-logo="Film 4.png" group-title="Cinema",Film 4
+http://iptvcanales.com/xw/premium.php?cmd=497
+#EXTINF:-1, tvg-logo="Disney XD Norte.png" group-title="Children's",Disney XD Norte
+http://iptvcanales.com/xw/premium.php?cmd=499
+#EXTINF:-1, tvg-logo="ITV Encore.png" group-title="Entertainments",ITV Encore
+http://iptvcanales.com/xw/premium.php?cmd=501
+#EXTINF:-1, tvg-logo="TLC.png" group-title="Entertainments",TLC
+http://iptvcanales.com/xw/premium.php?cmd=503
+#EXTINF:-1, tvg-logo="Really.png" group-title="Entertainments",Really
+http://iptvcanales.com/xw/premium.php?cmd=505
+#EXTINF:-1, tvg-logo="Discovery Turbo.png" group-title="Information",Discovery Turbo
+http://iptvcanales.com/xw/premium.php?cmd=511
+#EXTINF:-1, tvg-logo="Eden.png" group-title="Entertainments",Eden
+http://iptvcanales.com/xw/premium.php?cmd=513
+#EXTINF:-1, tvg-logo="Yesterday.png" group-title="Information",Yesterday
+http://iptvcanales.com/xw/premium.php?cmd=519
+#EXTINF:-1, tvg-logo="SKY Premiere.png" group-title="Cinema",SKY Premiere
+http://iptvcanales.com/xw/premium.php?cmd=521
+#EXTINF:-1, tvg-logo="SKY Disney.png" group-title="Children's",SKY Disney
+http://iptvcanales.com/xw/premium.php?cmd=523
+#EXTINF:-1, tvg-logo="SKY Family.png" group-title="Cinema",SKY Family
+http://iptvcanales.com/xw/premium.php?cmd=525
+#EXTINF:-1, tvg-logo="SKY Action & Adventure.png" group-title="Cinema",SKY Action & Adventure
+http://iptvcanales.com/xw/premium.php?cmd=527
+#EXTINF:-1, tvg-logo="SKY Comedy.png" group-title="Cinema",SKY Comedy
+http://iptvcanales.com/xw/premium.php?cmd=529
+#EXTINF:-1, tvg-logo="SKY Crime & Thriller.png" group-title="Cinema",SKY Crime & Thriller
+http://iptvcanales.com/xw/premium.php?cmd=531
+#EXTINF:-1, tvg-logo="SKY Scifi & Horror.png" group-title="Cinema",SKY Scifi & Horror
+http://iptvcanales.com/xw/premium.php?cmd=533
+#EXTINF:-1, tvg-logo="SKY Select.png" group-title="Cinema",SKY Select
+http://iptvcanales.com/xw/premium.php?cmd=535
+#EXTINF:-1, tvg-logo="SKY Movies Drama.png" group-title="Cinema",SKY Movies Drama
+http://iptvcanales.com/xw/premium.php?cmd=545
+#EXTINF:-1, tvg-logo="Movies 24.png" group-title="Cinema",Movies 24
+http://iptvcanales.com/xw/premium.php?cmd=549
+#EXTINF:-1, tvg-logo="At The Races.png" group-title="Sports",At The Races
+http://iptvcanales.com/xw/premium.php?cmd=553
+#EXTINF:-1, tvg-logo="MUTV.png" group-title="Information",MUTV
+http://iptvcanales.com/xw/premium.php?cmd=555
+#EXTINF:-1, tvg-logo="Cinemax East.png" group-title="Cinema",Cinemax East
+http://iptvcanales.com/xw/premium.php?cmd=953
+#EXTINF:-1, tvg-logo="Cinemax West.png" group-title="Cinema",Cinemax West
+http://iptvcanales.com/xw/premium.php?cmd=955
+#EXTINF:-1, tvg-logo="HBO Signature East.png" group-title="Cinema",HBO Signature East
+http://iptvcanales.com/xw/premium.php?cmd=959
+#EXTINF:-1, tvg-logo="ESPN US.png" group-title="Sports",ESPN US
+http://iptvcanales.com/xw/premium.php?cmd=963
+#EXTINF:-1, tvg-logo="TBS East.png" group-title="Entertainments",TBS East
+http://iptvcanales.com/xw/premium.php?cmd=967
+#EXTINF:-1, tvg-logo="Showtime West.png" group-title="Cinema",Showtime West
+http://iptvcanales.com/xw/premium.php?cmd=969
+#EXTINF:-1, tvg-logo="Showtime 2 East.png" group-title="Cinema",Showtime 2 East
+http://iptvcanales.com/xw/premium.php?cmd=971
+#EXTINF:-1, tvg-logo="Showtime Extreme East.png" group-title="Cinema",Showtime Extreme East
+http://iptvcanales.com/xw/premium.php?cmd=973
+#EXTINF:-1, tvg-logo="Showtime Beyond East.png" group-title="Cinema",Showtime Beyond East
+http://iptvcanales.com/xw/premium.php?cmd=975
+#EXTINF:-1, tvg-logo="TNT Drama.png" group-title="Entertainments",TNT Drama
+http://iptvcanales.com/xw/premium.php?cmd=977
+#EXTINF:-1, tvg-logo="ESPNU.png" group-title="Sports",ESPNU
+http://iptvcanales.com/xw/premium.php?cmd=979
+#EXTINF:-1, tvg-logo="Starz West.png" group-title="Cinema",Starz West
+http://iptvcanales.com/xw/premium.php?cmd=981
+#EXTINF:-1, tvg-logo="Starz Edge East.png" group-title="Cinema",Starz Edge East
+http://iptvcanales.com/xw/premium.php?cmd=983
+#EXTINF:-1, tvg-logo="Starz Cinema East.png" group-title="Cinema",Starz Cinema East
+http://iptvcanales.com/xw/premium.php?cmd=985
+#EXTINF:-1, tvg-logo="Starz Comedy East.png" group-title="Cinema",Starz Comedy East
+http://iptvcanales.com/xw/premium.php?cmd=987
+#EXTINF:-1, tvg-logo="Starz In Black East.png" group-title="Cinema",Starz In Black East
+http://iptvcanales.com/xw/premium.php?cmd=989
+#EXTINF:-1, tvg-logo="Palladia.png" group-title="Entertainments",Palladia
+http://iptvcanales.com/xw/premium.php?cmd=991
+#EXTINF:-1, tvg-logo="A&E East.png" group-title="Entertainments",A&E East
+http://iptvcanales.com/xw/premium.php?cmd=995
+#EXTINF:-1, tvg-logo="FX East.png" group-title="Entertainments",FX East
+http://iptvcanales.com/xw/premium.php?cmd=997
+#EXTINF:-1, tvg-logo="HBO Comedy East.png" group-title="Cinema",HBO Comedy East
+http://iptvcanales.com/xw/premium.php?cmd=1001
+#EXTINF:-1, tvg-logo="NFL Network.png" group-title="Sports",NFL Network
+http://iptvcanales.com/xw/premium.php?cmd=1003
+#EXTINF:-1, tvg-logo="Hallmark Movie Channel.png" group-title="Cinema",Hallmark Movie Channel
+http://iptvcanales.com/xw/premium.php?cmd=1005
+#EXTINF:-1, tvg-logo="The Movie Channel Xtra East.png" group-title="Cinema",The Movie Channel Xtra East
+http://iptvcanales.com/xw/premium.php?cmd=1009
+#EXTINF:-1, tvg-logo="Real.png" group-title="For Adults",Real
+http://iptvcanales.com/xw/premium.php?cmd=1021
+#EXTINF:-1, tvg-logo="Juicy.png" group-title="For Adults",Juicy
+http://iptvcanales.com/xw/premium.php?cmd=1023
+#EXTINF:-1, tvg-logo="Secrets.png" group-title="For Adults",Secrets
+http://iptvcanales.com/xw/premium.php?cmd=1025
+#EXTINF:-1, tvg-logo="Manhandle XXX.png" group-title="For Adults",Manhandle XXX
+http://iptvcanales.com/xw/premium.php?cmd=1027
+#EXTINF:-1, tvg-logo="CBeebies Latinoamerica.png" group-title="Children's",CBeebies Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=1029
+#EXTINF:-1, tvg-logo="Elgourmet.png" group-title="Culture",Elgourmet
+http://iptvcanales.com/xw/premium.php?cmd=1033
+#EXTINF:-1, tvg-logo="Golden Multiplex.png" group-title="Cinema",Golden Multiplex
+http://iptvcanales.com/xw/premium.php?cmd=1035
+#EXTINF:-1, tvg-logo="Comedy Central Latinoamerica.png" group-title="Entertainments",Comedy Central Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=1037
+#EXTINF:-1, tvg-logo="Efekto TV.png" group-title="Information",Efekto TV
+http://iptvcanales.com/xw/premium.php?cmd=1039
+#EXTINF:-1, tvg-logo="Sundance Channel Latinoamerica.png" group-title="Cinema",Sundance Channel Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=1041
+#EXTINF:-1, tvg-logo="UFC Network Latinoamerica.png" group-title="Sports",UFC Network Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=1047
+#EXTINF:-1, tvg-logo="Film Zone.png" group-title="Cinema",Film Zone
+http://iptvcanales.com/xw/premium.php?cmd=1055
+#EXTINF:-1, tvg-logo="TDN Mexico.png" group-title="Information",TDN Mexico
+http://iptvcanales.com/xw/premium.php?cmd=1059
+#EXTINF:-1, tvg-logo="Showtime Showcase East.png" group-title="Cinema",Showtime Showcase East
+http://iptvcanales.com/xw/premium.php?cmd=1085
+#EXTINF:-1, tvg-logo="HBO 2 West.png" group-title="Cinema",HBO 2 West
+http://iptvcanales.com/xw/premium.php?cmd=1095
+#EXTINF:-1, tvg-logo="Showtime Next.png" group-title="Cinema",Showtime Next
+http://iptvcanales.com/xw/premium.php?cmd=1097
+#EXTINF:-1, tvg-logo="Starz Kids & Family East.png" group-title="Cinema",Starz Kids & Family East
+http://iptvcanales.com/xw/premium.php?cmd=1099
+#EXTINF:-1, tvg-logo="Sony Movie Channel USA.png" group-title="Cinema",Sony Movie Channel USA
+http://iptvcanales.com/xw/premium.php?cmd=1101
+#EXTINF:-1, tvg-logo="TCM US.png" group-title="Cinema",TCM US
+http://iptvcanales.com/xw/premium.php?cmd=1105
+#EXTINF:-1, tvg-logo="BBC Entertainment Latinoamerica.png" group-title="Entertainments",BBC Entertainment Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=1407
+#EXTINF:-1, tvg-logo="Nickelodeon Latinoamerica.png" group-title="Children's",Nickelodeon Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=1423
+#EXTINF:-1, tvg-logo="Disney Junior Norte.png" group-title="Children's",Disney Junior Norte
+http://iptvcanales.com/xw/premium.php?cmd=1455
+#EXTINF:-1, tvg-logo="Multimedios Plus.png" group-title="Information",Multimedios Plus
+http://iptvcanales.com/xw/premium.php?cmd=1459
+#EXTINF:-1, tvg-logo="Tlnovelas America.png" group-title="Entertainments",Tlnovelas America
+http://iptvcanales.com/xw/premium.php?cmd=1461
+#EXTINF:-1, tvg-logo="Xtsy XXX.png" group-title="For Adults",Xtsy XXX
+http://iptvcanales.com/xw/premium.php?cmd=1463
+#EXTINF:-1, tvg-logo="Golden Edge.png" group-title="Cinema",Golden Edge
+http://iptvcanales.com/xw/premium.php?cmd=1465
+#EXTINF:-1, tvg-logo="Bandamax.png" group-title="Music",Bandamax
+http://iptvcanales.com/xw/premium.php?cmd=1467
+#EXTINF:-1, tvg-logo="Glitz Latinoamerica.png" group-title="Entertainments",Glitz Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=1473
+#EXTINF:-1, tvg-logo="Casa Club TV.png" group-title="Information",Casa Club TV
+http://iptvcanales.com/xw/premium.php?cmd=1475
+#EXTINF:-1, tvg-logo="Planeta Futbol.png" group-title="Sports",Planeta Futbol
+http://iptvcanales.com/xw/premium.php?cmd=1477
+#EXTINF:-1, tvg-logo="Univision TDN.png" group-title="Information",Univision TDN
+http://iptvcanales.com/xw/premium.php?cmd=1483
+#EXTINF:-1, tvg-logo="Golf Channel Latinoamerica.png" group-title="Sports",Golf Channel Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=1489
+#EXTINF:-1, tvg-logo="Distrito Comedia.png" group-title="Entertainments",Distrito Comedia
+http://iptvcanales.com/xw/premium.php?cmd=1491
+#EXTINF:-1, tvg-logo="RCN Novelas.png" group-title="Entertainments",RCN Novelas
+http://iptvcanales.com/xw/premium.php?cmd=1493
+#EXTINF:-1, tvg-logo="MTV Hits Latinoamerica.png" group-title="Music",MTV Hits Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=1495
+#EXTINF:-1, tvg-logo="H2 USA.png" group-title="Information",H2 USA
+http://iptvcanales.com/xw/premium.php?cmd=1497
+#EXTINF:-1, tvg-logo="Galicia TV.png" group-title="Information",Galicia TV
+http://iptvcanales.com/xw/premium.php?cmd=1499
+#EXTINF:-1, tvg-logo="TV Globo Internacional.png" group-title="Information",TV Globo Internacional
+http://iptvcanales.com/xw/premium.php?cmd=1593
+#EXTINF:-1, tvg-logo="Europa Europa.png" group-title="Cinema",Europa Europa
+http://iptvcanales.com/xw/premium.php?cmd=1597
+#EXTINF:-1, tvg-logo="Film & Arts Latinoamerica.png" group-title="Cinema",Film & Arts Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=1599
+#EXTINF:-1, tvg-logo="NTN 24.png" group-title="Information",NTN 24
+http://iptvcanales.com/xw/premium.php?cmd=1601
+#EXTINF:-1, tvg-logo="Dominican Republic 2.png" group-title="Information",Dominican Republic 2
+http://iptvcanales.com/xw/premium.php?cmd=1615
+#EXTINF:-1, tvg-logo="Dominican Republic 5.png" group-title="Information",Dominican Republic 5
+http://iptvcanales.com/xw/premium.php?cmd=1627
+#EXTINF:-1, tvg-logo="Dominican Republic 6.png" group-title="Information",Dominican Republic 6
+http://iptvcanales.com/xw/premium.php?cmd=1629
+#EXTINF:-1, tvg-logo="F1 Latinoamerica.png" group-title="Sports",F1 Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=1695
+#EXTINF:-1, tvg-logo="Nickelodeon East.png" group-title="Children's",Nickelodeon East
+http://iptvcanales.com/xw/premium.php?cmd=1701
+#EXTINF:-1, tvg-logo="I-Sat.png" group-title="Cinema",I-Sat
+http://iptvcanales.com/xw/premium.php?cmd=1703
+#EXTINF:-1, tvg-logo="Hustler TV USA.png" group-title="For Adults",Hustler TV USA
+http://iptvcanales.com/xw/premium.php?cmd=1707
+#EXTINF:-1, tvg-logo="WGN America.png" group-title="Entertainments",WGN America
+http://iptvcanales.com/xw/premium.php?cmd=1771
+#EXTINF:-1, tvg-logo="CNN en Español.png" group-title="Information",CNN en Español
+http://iptvcanales.com/xw/premium.php?cmd=1855
+#EXTINF:-1, tvg-logo="Az Mundo.png" group-title="Information",Az Mundo
+http://iptvcanales.com/xw/premium.php?cmd=1999
+#EXTINF:-1, tvg-logo="Nicaragua 4.png" group-title="Information",Nicaragua 4
+http://iptvcanales.com/xw/premium.php?cmd=2015
+#EXTINF:-1, tvg-logo="TeleCentro.png" group-title="Information",TeleCentro
+http://iptvcanales.com/xw/premium.php?cmd=2017
+#EXTINF:-1, tvg-logo="Caracol Internacional.png" group-title="Information",Caracol Internacional
+http://iptvcanales.com/xw/premium.php?cmd=2051
+#EXTINF:-1, tvg-logo="SKY Sports News.png" group-title="Sports",SKY Sports News
+http://iptvcanales.com/xw/premium.php?cmd=2101
+#EXTINF:-1, tvg-logo="TVE Internacional America.png" group-title="Information",TVE Internacional America
+http://iptvcanales.com/xw/premium.php?cmd=2123
+#EXTINF:-1, tvg-logo="ActionMax East.png" group-title="Cinema",ActionMax East
+http://iptvcanales.com/xw/premium.php?cmd=2337
+#EXTINF:-1, tvg-logo="FXX East.png" group-title="Entertainments",FXX East
+http://iptvcanales.com/xw/premium.php?cmd=2339
+#EXTINF:-1, tvg-logo="E!.png" group-title="Entertainments",E!
+http://iptvcanales.com/xw/premium.php?cmd=2341
+#EXTINF:-1, tvg-logo="Crime + Investigation Network USA.png" group-title="Information",Crime + Investigation Network USA
+http://iptvcanales.com/xw/premium.php?cmd=2343
+#EXTINF:-1, tvg-logo="Golf Channel.png" group-title="Sports",Golf Channel
+http://iptvcanales.com/xw/premium.php?cmd=2345
+#EXTINF:-1, tvg-logo="NBA TV.png" group-title="Sports",NBA TV
+http://iptvcanales.com/xw/premium.php?cmd=2347
+#EXTINF:-1, tvg-logo="Ovation.png" group-title="Entertainments",Ovation
+http://iptvcanales.com/xw/premium.php?cmd=2349
+#EXTINF:-1, tvg-logo="ESPNews US.png" group-title="Sports",ESPNews US
+http://iptvcanales.com/xw/premium.php?cmd=2353
+#EXTINF:-1, tvg-logo="ESPN 2 US.png" group-title="Sports",ESPN 2 US
+http://iptvcanales.com/xw/premium.php?cmd=2355
+#EXTINF:-1, tvg-logo="Investigation Discovery.png" group-title="Information",Investigation Discovery
+http://iptvcanales.com/xw/premium.php?cmd=2357
+#EXTINF:-1, tvg-logo="CBS Sports Network.png" group-title="Sports",CBS Sports Network
+http://iptvcanales.com/xw/premium.php?cmd=2359
+#EXTINF:-1, tvg-logo="CBS Drama.png" group-title="Entertainments",CBS Drama
+http://iptvcanales.com/xw/premium.php?cmd=2431
+#EXTINF:-1, tvg-logo="CBS Action.png" group-title="Entertainments",CBS Action
+http://iptvcanales.com/xw/premium.php?cmd=2433
+#EXTINF:-1, tvg-logo="CBS Reality.png" group-title="Entertainments",CBS Reality
+http://iptvcanales.com/xw/premium.php?cmd=2435
+#EXTINF:-1, tvg-logo="Pick.png" group-title="Information",Pick
+http://iptvcanales.com/xw/premium.php?cmd=2437
+#EXTINF:-1, tvg-logo="RTE TWO.png" group-title="Information",RTE TWO
+http://iptvcanales.com/xw/premium.php?cmd=2439
+#EXTINF:-1, tvg-logo="RTE ONE.png" group-title="Information",RTE ONE
+http://iptvcanales.com/xw/premium.php?cmd=2441
+#EXTINF:-1, tvg-logo="BBC ONE.png" group-title="Information",BBC ONE
+http://iptvcanales.com/xw/premium.php?cmd=2443
+#EXTINF:-1, tvg-logo="BBC TWO.png" group-title="Information",BBC TWO
+http://iptvcanales.com/xw/premium.php?cmd=2445
+#EXTINF:-1, tvg-logo="ITV.png" group-title="Information",ITV
+http://iptvcanales.com/xw/premium.php?cmd=2447
+#EXTINF:-1, tvg-logo="BOXnation.png" group-title="Information",BOXnation
+http://iptvcanales.com/xw/premium.php?cmd=2449
+#EXTINF:-1, tvg-logo="True Movies 1.png" group-title="Cinema",True Movies 1
+http://iptvcanales.com/xw/premium.php?cmd=2453
+#EXTINF:-1, tvg-logo="True Movies 2.png" group-title="Cinema",True Movies 2
+http://iptvcanales.com/xw/premium.php?cmd=2455
+#EXTINF:-1, tvg-logo="SKY Sports F1.png" group-title="Sports",SKY Sports F1
+http://iptvcanales.com/xw/premium.php?cmd=2457
+#EXTINF:-1, tvg-logo="SKY Sports 1.png" group-title="Sports",SKY Sports 1
+http://iptvcanales.com/xw/premium.php?cmd=2459
+#EXTINF:-1, tvg-logo="SKY Sports 2.png" group-title="Sports",SKY Sports 2
+http://iptvcanales.com/xw/premium.php?cmd=2461
+#EXTINF:-1, tvg-logo="SKY Sports 4.png" group-title="Sports",SKY Sports 4
+http://iptvcanales.com/xw/premium.php?cmd=2465
+#EXTINF:-1, tvg-logo="SKY Sports 5.png" group-title="Sports",SKY Sports 5
+http://iptvcanales.com/xw/premium.php?cmd=2467
+#EXTINF:-1, tvg-logo="SKY Sports 3.png" group-title="Sports",SKY Sports 3
+http://iptvcanales.com/xw/premium.php?cmd=2469
+#EXTINF:-1, tvg-logo="ASTRO SuperSport.png" group-title="Sports",ASTRO SuperSport
+http://iptvcanales.com/xw/premium.php?cmd=2471
+#EXTINF:-1, tvg-logo="ASTRO SuperSport 2.png" group-title="Sports",ASTRO SuperSport 2
+http://iptvcanales.com/xw/premium.php?cmd=2473
+#EXTINF:-1, tvg-logo="ASTRO SuperSport 3.png" group-title="Sports",ASTRO SuperSport 3
+http://iptvcanales.com/xw/premium.php?cmd=2475
+#EXTINF:-1, tvg-logo="Racing UK.png" group-title="Sports",Racing UK
+http://iptvcanales.com/xw/premium.php?cmd=2477
+#EXTINF:-1, tvg-logo="BT Sport 1.png" group-title="Sports",BT Sport 1
+http://iptvcanales.com/xw/premium.php?cmd=2479
+#EXTINF:-1, tvg-logo="BT Sport 2.png" group-title="Sports",BT Sport 2
+http://iptvcanales.com/xw/premium.php?cmd=2481
+#EXTINF:-1, tvg-logo="ESPN Latinoamerica.png" group-title="Sports",ESPN Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=2487
+#EXTINF:-1, tvg-logo="SPACE.png" group-title="Cinema",SPACE
+http://iptvcanales.com/xw/premium.php?cmd=2489
+#EXTINF:-1, tvg-logo="MTV Latinoamerica.png" group-title="Music",MTV Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=2491
+#EXTINF:-1, tvg-logo="AXN Latinoamerica.png" group-title="Entertainments",AXN Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=2493
+#EXTINF:-1, tvg-logo="CineCanal.png" group-title="Cinema",CineCanal
+http://iptvcanales.com/xw/premium.php?cmd=2495
+#EXTINF:-1, tvg-logo="Warner Channel Latinoamerica.png" group-title="Entertainments",Warner Channel Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=2499
+#EXTINF:-1, tvg-logo="Canal Sony.png" group-title="Information",Canal Sony
+http://iptvcanales.com/xw/premium.php?cmd=2501
+#EXTINF:-1, tvg-logo="Fox Sports Latinoamerica.png" group-title="Sports",Fox Sports Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=2505
+#EXTINF:-1, tvg-logo="Boomerang Latinoamerica.png" group-title="Children's",Boomerang Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=2507
+#EXTINF:-1, tvg-logo="BeinSports en Español.png" group-title="Sports",BeinSports en Español
+http://iptvcanales.com/xw/premium.php?cmd=2527
+#EXTINF:-1, tvg-logo="Science Channel.png" group-title="Science",Science Channel
+http://iptvcanales.com/xw/premium.php?cmd=2529
+#EXTINF:-1, tvg-logo="Comedy Central East.png" group-title="Entertainments",Comedy Central East
+http://iptvcanales.com/xw/premium.php?cmd=2575
+#EXTINF:-1, tvg-logo="USA Network East.png" group-title="Cinema",USA Network East
+http://iptvcanales.com/xw/premium.php?cmd=2579
+#EXTINF:-1, tvg-logo="Lifetime East.png" group-title="Entertainments",Lifetime East
+http://iptvcanales.com/xw/premium.php?cmd=2581
+#EXTINF:-1, tvg-logo="Good Food.png" group-title="Culture",Good Food
+http://iptvcanales.com/xw/premium.php?cmd=2587
+#EXTINF:-1, tvg-logo="National Geographic Channel.png" group-title="Information",National Geographic Channel
+http://iptvcanales.com/xw/premium.php?cmd=2819
+#EXTINF:-1, tvg-logo="El Financiero Bloomberg.png" group-title="Information",El Financiero Bloomberg
+http://iptvcanales.com/xw/premium.php?cmd=2823
+#EXTINF:-1, tvg-logo="ITV 3.png" group-title="Information",ITV 3
+http://iptvcanales.com/xw/premium.php?cmd=2835
+#EXTINF:-1, tvg-logo="ITV 4.png" group-title="Information",ITV 4
+http://iptvcanales.com/xw/premium.php?cmd=2837
+#EXTINF:-1, tvg-logo="TG 4.png" group-title="Information",TG 4
+http://iptvcanales.com/xw/premium.php?cmd=2839
+#EXTINF:-1, tvg-logo="Channel 4.png" group-title="Information",Channel 4
+http://iptvcanales.com/xw/premium.php?cmd=2841
+#EXTINF:-1, tvg-logo="Channel 5.png" group-title="Information",Channel 5
+http://iptvcanales.com/xw/premium.php?cmd=2843
+#EXTINF:-1, tvg-logo="SKY Living.png" group-title="Information",SKY Living
+http://iptvcanales.com/xw/premium.php?cmd=2845
+#EXTINF:-1, tvg-logo="Watch.png" group-title="Information",Watch
+http://iptvcanales.com/xw/premium.php?cmd=2847
+#EXTINF:-1, tvg-logo="Gold.png" group-title="Information",Gold
+http://iptvcanales.com/xw/premium.php?cmd=2849
+#EXTINF:-1, tvg-logo="Dave.png" group-title="Information",Dave
+http://iptvcanales.com/xw/premium.php?cmd=2851
+#EXTINF:-1, tvg-logo="SKY Atlantic.png" group-title="Information",SKY Atlantic
+http://iptvcanales.com/xw/premium.php?cmd=2855
+#EXTINF:-1, tvg-logo="E4.png" group-title="Information",E4
+http://iptvcanales.com/xw/premium.php?cmd=2857
+#EXTINF:-1, tvg-logo="More 4.png" group-title="Information",More 4
+http://iptvcanales.com/xw/premium.php?cmd=2859
+#EXTINF:-1, tvg-logo="5 Star.png" group-title="Information",5 Star
+http://iptvcanales.com/xw/premium.php?cmd=2865
+#EXTINF:-1, tvg-logo="5 USA.png" group-title="Information",5 USA
+http://iptvcanales.com/xw/premium.php?cmd=2867
+#EXTINF:-1, tvg-logo="BBC Three.png" group-title="Information",BBC Three
+http://iptvcanales.com/xw/premium.php?cmd=2869
+#EXTINF:-1, tvg-logo="BBC Four.png" group-title="Information",BBC Four
+http://iptvcanales.com/xw/premium.php?cmd=2871
+#EXTINF:-1, tvg-logo="True Drama.png" group-title="Information",True Drama
+http://iptvcanales.com/xw/premium.php?cmd=2873
+#EXTINF:-1, tvg-logo="Drama.png" group-title="Information",Drama
+http://iptvcanales.com/xw/premium.php?cmd=2875
+#EXTINF:-1, tvg-logo="UFC Network.png" group-title="Sports",UFC Network
+http://iptvcanales.com/xw/premium.php?cmd=2923
+#EXTINF:-1, tvg-logo="Dominican Republic 4.png" group-title="Information",Dominican Republic 4
+http://iptvcanales.com/xw/premium.php?cmd=2935
+#EXTINF:-1, tvg-logo="CNN US.png" group-title="Information",CNN US
+http://iptvcanales.com/xw/premium.php?cmd=3133
+#EXTINF:-1, tvg-logo="MultiPremier.png" group-title="Information",MultiPremier
+http://iptvcanales.com/xw/premium.php?cmd=3293
+#EXTINF:-1, tvg-logo="SKY Modern Greats.png" group-title="Cinema",SKY Modern Greats
+http://iptvcanales.com/xw/premium.php?cmd=3301
+#EXTINF:-1, tvg-logo="Discovery History.png" group-title="Information",Discovery History
+http://iptvcanales.com/xw/premium.php?cmd=3397
+#EXTINF:-1, tvg-logo="Cine Dinamita.png" group-title="Cinema",Cine Dinamita
+http://iptvcanales.com/xw/premium.php?cmd=3465
+#EXTINF:-1, tvg-logo="K Music.png" group-title="Music",K Music
+http://iptvcanales.com/xw/premium.php?cmd=3467
+#EXTINF:-1, tvg-logo="Discovery World.png" group-title="Information",Discovery World
+http://iptvcanales.com/xw/premium.php?cmd=3529
+#EXTINF:-1, tvg-logo="Discovery en EspaÃ±ol.png" group-title="Information",Discovery en Español
+http://iptvcanales.com/xw/premium.php?cmd=3531
+#EXTINF:-1, tvg-logo="Setanta Sports.png" group-title="Sports",Setanta Sports
+http://iptvcanales.com/xw/premium.php?cmd=3580
+#EXTINF:-1, tvg-logo="UniMas.png" group-title="Entertainments",UniMas
+http://iptvcanales.com/xw/premium.php?cmd=3602
+#EXTINF:-1, tvg-logo="History en EspaÃ±ol.png" group-title="Information",History en Español
+http://iptvcanales.com/xw/premium.php?cmd=3704
+#EXTINF:-1, tvg-logo="Discovery Theater.png" group-title="Information",Discovery Theater
+http://iptvcanales.com/xw/premium.php?cmd=3798
+#EXTINF:-1, tvg-logo="Unicable.png" group-title="Information",Unicable
+http://iptvcanales.com/xw/premium.php?cmd=3804
+#EXTINF:-1, tvg-logo="ESPN 3 Latinoamerica.png" group-title="Sports",ESPN 3 Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=3806
+#EXTINF:-1, tvg-logo="Fox Latinoamerica.png" group-title="Entertainments",Fox Latinoamerica
+http://iptvcanales.com/xw/premium.php?cmd=3947
+#EXTINF:-1, tvg-logo="News 12 Long Island.png" group-title="Information",News 12 Long Island
+http://iptvcanales.com/xw/premium.php?cmd=4034
+#EXTINF:-1, tvg-logo="News 12 Brooklyn.png" group-title="Information",News 12 Brooklyn
+http://iptvcanales.com/xw/premium.php?cmd=4037
+#EXTINF:-1, tvg-logo="News 12 Bronx.png" group-title="Information",News 12 Bronx
+http://iptvcanales.com/xw/premium.php?cmd=4040
+#EXTINF:-1, tvg-logo="News 12 Connecticut.png" group-title="Information",News 12 Connecticut
+http://iptvcanales.com/xw/premium.php?cmd=4043
+#EXTINF:-1, tvg-logo="News 12 Hudson Valley.png" group-title="Information",News 12 Hudson Valley
+http://iptvcanales.com/xw/premium.php?cmd=4046
+#EXTINF:-1, tvg-logo="News 12 New Jersey.png" group-title="Information",News 12 New Jersey
+http://iptvcanales.com/xw/premium.php?cmd=4049
+#EXTINF:-1, tvg-logo="News 12 Westchester.png" group-title="Information",News 12 Westchester
+http://iptvcanales.com/xw/premium.php?cmd=4052
+#EXTINF:-1, tvg-logo="Irish TV.png" group-title="Information",Irish TV
+http://iptvcanales.com/xw/premium.php?cmd=4066
+#EXTINF:-1, tvg-logo="Challenge.png" group-title="Information",Challenge
+http://iptvcanales.com/xw/premium.php?cmd=4247
+#EXTINF:-1, tvg-logo="4 Seven.png" group-title="Information",4 Seven
+http://iptvcanales.com/xw/premium.php?cmd=4270
+#EXTINF:-1, tvg-logo="Eurosport 1.png" group-title="Sports",Eurosport 1
+http://iptvcanales.com/xw/premium.php?cmd=4317
+#EXTINF:-1, tvg-logo="Eurosport 2.png" group-title="Sports",Eurosport 2
+http://iptvcanales.com/xw/premium.php?cmd=4322
+#EXTINF:-1, tvg-logo="Spike TV.png" group-title="Entertainments",Spike TV
+http://iptvcanales.com/xw/premium.php?cmd=4410
+#EXTINF:-1, tvg-logo="HBO Family East.png" group-title="Cinema",HBO Family East
+http://iptvcanales.com/xw/premium.php?cmd=4415
+#EXTINF:-1, tvg-logo="Telemundo.png" group-title="Entertainments",Telemundo
+http://iptvcanales.com/xw/premium.php?cmd=4417
+#EXTINF:-1, tvg-logo="Travel Channel UK.png" group-title="Culture",Travel Channel UK
+http://iptvcanales.com/xw/premium.php?cmd=4422
+#EXTINF:-1, tvg-logo="SKY One.png" group-title="Information",SKY One
+http://iptvcanales.com/xw/premium.php?cmd=4662
+#EXTINF:-1, tvg-logo="ITV B.png" group-title="Entertainments",ITV B
+http://iptvcanales.com/xw/premium.php?cmd=4737
+#EXTINF:-1, tvg-logo="Alibi.png" group-title="Information",Alibi
+http://iptvcanales.com/xw/premium.php?cmd=4740
+#EXTINF:-1, tvg-logo="Dmax.png" group-title="Information",Dmax
+http://iptvcanales.com/xw/premium.php?cmd=4745
+#EXTINF:-1, tvg-logo="CNBC US.png" group-title="Information",CNBC US
+http://iptvcanales.com/xw/premium.php?cmd=4755
+#EXTINF:-1, tvg-logo="MSNBC.png" group-title="Information",MSNBC
+http://iptvcanales.com/xw/premium.php?cmd=4760
+#EXTINF:-1, tvg-logo="HBO East.png" group-title="Cinema",HBO East
+http://iptvcanales.com/xw/premium.php?cmd=4765
+#EXTINF:-1, tvg-logo="HBO West.png" group-title="Cinema",HBO West
+http://iptvcanales.com/xw/premium.php?cmd=4767
+#EXTINF:-1, tvg-logo="Golden Premier 2.png" group-title="Cinema",Golden Premier 2
+http://iptvcanales.com/xw/premium.php?cmd=4772
+#EXTINF:-1, tvg-logo="Golden Premier 1.png" group-title="Cinema",Golden Premier 1
+http://iptvcanales.com/xw/premium.php?cmd=4777
+#EXTINF:-1, tvg-logo="Regional Music.png" group-title="Information",Regional Music
+http://iptvcanales.com/xw/premium.php?cmd=4805
+#EXTINF:-1, tvg-logo="Teletica.png" group-title="Information",Teletica
+http://iptvcanales.com/xw/premium.php?cmd=4817
+#EXTINF:-1, tvg-logo="NBC Universo.png" group-title="Entertainments",NBC Universo
+http://iptvcanales.com/xw/premium.php?cmd=4825
+#EXTINF:-1, tvg-logo="Nat Geo Wild.png" group-title="Culture",Nat Geo Wild
+http://iptvcanales.com/xw/premium.php?cmd=4830
+#EXTINF:-1, tvg-logo="Yes Network.png" group-title="Sports",Yes Network
+http://iptvcanales.com/xw/premium.php?cmd=4832
+#EXTINF:-1, tvg-logo="Destination America.png" group-title="Information",Destination America
+http://iptvcanales.com/xw/premium.php?cmd=4837
+#EXTINF:-1, tvg-logo="Fox Sports Florida.png" group-title="Sports",Fox Sports Florida
+http://iptvcanales.com/xw/premium.php?cmd=4840
+#EXTINF:-1, tvg-logo="Animal Planet.png" group-title="Culture",Animal Planet
+http://iptvcanales.com/xw/premium.php?cmd=4845
+#EXTINF:-1, tvg-logo="Tennis Channel.png" group-title="Sports",Tennis Channel
+http://iptvcanales.com/xw/premium.php?cmd=4850
+#EXTINF:-1, tvg-logo="Disney Jr.png" group-title="Children's",Disney Jr
+http://iptvcanales.com/xw/premium.php?cmd=4852
+#EXTINF:-1, tvg-logo="ABC Family.png" group-title="Entertainments",ABC Family
+http://iptvcanales.com/xw/premium.php?cmd=4855
+#EXTINF:-1, tvg-logo="Disney XD.png" group-title="Children's",Disney XD
+http://iptvcanales.com/xw/premium.php?cmd=4860
+#EXTINF:-1, tvg-logo="Disney Channel West.png" group-title="Children's",Disney Channel West
+http://iptvcanales.com/xw/premium.php?cmd=4862
+#EXTINF:-1, tvg-logo="CBS New York.png" group-title="Information",CBS New York
+http://iptvcanales.com/xw/premium.php?cmd=4865
+#EXTINF:-1, tvg-logo="Discovery Family.png" group-title="Entertainments",Discovery Family
+http://iptvcanales.com/xw/premium.php?cmd=4867
+#EXTINF:-1, tvg-logo="Nick Jr.png" group-title="Children's",Nick Jr
+http://iptvcanales.com/xw/premium.php?cmd=4872
+#EXTINF:-1, tvg-logo="Teen Nick.png" group-title="Children's",Teen Nick
+http://iptvcanales.com/xw/premium.php?cmd=4877
+#EXTINF:-1, tvg-logo="Baby First TV.png" group-title="Children's",Baby First TV
+http://iptvcanales.com/xw/premium.php?cmd=4882
+#EXTINF:-1, tvg-logo="Bravo East.png" group-title="Entertainments",Bravo East
+http://iptvcanales.com/xw/premium.php?cmd=4890
+#EXTINF:-1, tvg-logo="5 StarMax.png" group-title="Cinema",5 StarMax
+http://iptvcanales.com/xw/premium.php?cmd=4895
+#EXTINF:-1, tvg-logo="Encore Action East.png" group-title="Cinema",Encore Action East
+http://iptvcanales.com/xw/premium.php?cmd=4897
+#EXTINF:-1, tvg-logo="ION Television East.png" group-title="Entertainments",ION Television East
+http://iptvcanales.com/xw/premium.php?cmd=4902
+#EXTINF:-1, tvg-logo="American Heroes Channel.png" group-title="Information",American Heroes Channel
+http://iptvcanales.com/xw/premium.php?cmd=4910
+#EXTINF:-1, tvg-logo="Eurochannel.png" group-title="Information",Eurochannel
+http://iptvcanales.com/xw/premium.php?cmd=4912
+#EXTINF:-1, tvg-logo="The Weather Channel.png" group-title="Information",The Weather Channel
+http://iptvcanales.com/xw/premium.php?cmd=5289
+#EXTINF:-1, tvg-logo="Mexico 2.png" group-title="Information",Mexico 2
+http://iptvcanales.com/xw/premium.php?cmd=5509
+#EXTINF:-1, tvg-logo="AMC East.png" group-title="Entertainments",AMC East
+http://iptvcanales.com/xw/premium.php?cmd=5629
+#EXTINF:-1, tvg-logo="Fox Sports 2 US.png" group-title="Sports",Fox Sports 2 US
+http://iptvcanales.com/xw/premium.php?cmd=5634
+#EXTINF:-1, tvg-logo="Star Plus.png" group-title="Information",Star Plus
+http://iptvcanales.com/xw/premium.php?cmd=5784
+#EXTINF:-1, tvg-logo="Star Plus.png" group-title="Information",Star Life Ok
+http://iptvcanales.com/xw/premium.php?cmd=5789
+#EXTINF:-1, tvg-logo="Colors.png" group-title="Information",Colors
+http://iptvcanales.com/xw/premium.php?cmd=5792
+#EXTINF:-1, tvg-logo="Zee TV.png" group-title="Information",Zee TV
+http://iptvcanales.com/xw/premium.php?cmd=5797
+#EXTINF:-1, tvg-logo="Sony.png" group-title="Information",Sony TV
+http://iptvcanales.com/xw/premium.php?cmd=5804
+#EXTINF:-1, tvg-logo="Sony TV India.png" group-title="Information",Sony Sab TV
+http://iptvcanales.com/xw/premium.php?cmd=5809
+#EXTINF:-1, tvg-logo="Rishtey.png" group-title="Information",Rishty
+http://iptvcanales.com/xw/premium.php?cmd=5812
+#EXTINF:-1, tvg-logo="Aaj Tak.png" group-title="Information",Aaj Tak
+http://iptvcanales.com/xw/premium.php?cmd=5817
+#EXTINF:-1, tvg-logo="Colors India.png" group-title="Information",Colors India
+http://iptvcanales.com/xw/premium.php?cmd=5819
+#EXTINF:-1, tvg-logo="Star Plus India.png" group-title="Information",Star Plus India
+http://iptvcanales.com/xw/premium.php?cmd=5822
+#EXTINF:-1, tvg-logo="Zee TV India.png" group-title="Information",Zee TV India
+http://iptvcanales.com/xw/premium.php?cmd=5824
+#EXTINF:-1, tvg-logo="Sony TV India.png" group-title="Information",Sony TV India
+http://iptvcanales.com/xw/premium.php?cmd=5829
+#EXTINF:-1, tvg-logo="Peace TV.png" group-title="Information",Peace TV
+http://iptvcanales.com/xw/premium.php?cmd=5832
+#EXTINF:-1, tvg-logo="And TV.png" group-title="Information",And TV
+http://iptvcanales.com/xw/premium.php?cmd=5837
+#EXTINF:-1, tvg-logo="Star Gold.png" group-title="Information",Star Gold
+http://iptvcanales.com/xw/premium.php?cmd=5842
+#EXTINF:-1, tvg-logo="Paigam Pushto.png" group-title="Information",Paigam Pushto
+http://iptvcanales.com/xw/premium.php?cmd=5844
+#EXTINF:-1, tvg-logo="Paigam.png" group-title="Information",Paigam
+http://iptvcanales.com/xw/premium.php?cmd=5849
+#EXTINF:-1, tvg-logo="Zoom.png" group-title="Information",Zoom
+http://iptvcanales.com/xw/premium.php?cmd=5852
+#EXTINF:-1, tvg-logo="Dekho.png" group-title="Information",Dekho
+http://iptvcanales.com/xw/premium.php?cmd=5854
+#EXTINF:-1, tvg-logo="Ary Zauq.png" group-title="Information",Ary Zauq
+http://iptvcanales.com/xw/premium.php?cmd=5859
+#EXTINF:-1, tvg-logo="Brit TV Asia.png" group-title="Information",Brit TV Asia
+http://iptvcanales.com/xw/premium.php?cmd=5864
+#EXTINF:-1, tvg-logo="Munsif.png" group-title="Information",Munsif
+http://iptvcanales.com/xw/premium.php?cmd=5867
+#EXTINF:-1, tvg-logo="Jaag TV.png" group-title="Information",Jaag TV
+http://iptvcanales.com/xw/premium.php?cmd=5872
+#EXTINF:-1, tvg-logo="Noor TV.png" group-title="Information",Noor TV
+http://iptvcanales.com/xw/premium.php?cmd=5874
+#EXTINF:-1, tvg-logo="Such TV.png" group-title="Information",Such TV
+http://iptvcanales.com/xw/premium.php?cmd=5879
+#EXTINF:-1, tvg-logo="Geo Tez.png" group-title="Information",Geo Tez
+http://iptvcanales.com/xw/premium.php?cmd=5882
+#EXTINF:-1, tvg-logo="ARY Digital.png" group-title="Information",ARY Digital
+http://iptvcanales.com/xw/premium.php?cmd=5887
+#EXTINF:-1, tvg-logo="Animal Planet India.png" group-title="Information",Animal Planet India
+http://iptvcanales.com/xw/premium.php?cmd=5889
+#EXTINF:-1, tvg-logo="Jus Punjabi TV.png" group-title="Information",Jus Punjabi TV
+http://iptvcanales.com/xw/premium.php?cmd=5892
+#EXTINF:-1, tvg-logo="Jus One TV.png" group-title="Information",Jus One TV
+http://iptvcanales.com/xw/premium.php?cmd=5897
+#EXTINF:-1, tvg-logo="UTV Bindass.png" group-title="Information",UTV Bindass
+http://iptvcanales.com/xw/premium.php?cmd=5902
+#EXTINF:-1, tvg-logo="Tez TV.png" group-title="Information",Tez TV
+http://iptvcanales.com/xw/premium.php?cmd=5904
+#EXTINF:-1, tvg-logo="Sanskar TV.png" group-title="Information",Sanskar TV
+http://iptvcanales.com/xw/premium.php?cmd=5909
+#EXTINF:-1, tvg-logo="Jus 24X7.png" group-title="Information",Jus 24X7
+http://iptvcanales.com/xw/premium.php?cmd=5914
+#EXTINF:-1, tvg-logo="PTV Global.png" group-title="Information",PTV Global
+http://iptvcanales.com/xw/premium.php?cmd=5919
+#EXTINF:-1, tvg-logo="Divya TV.png" group-title="Information",Divya TV
+http://iptvcanales.com/xw/premium.php?cmd=5924
+#EXTINF:-1, tvg-logo="Bindass Play.png" group-title="Information",Bindass Play
+http://iptvcanales.com/xw/premium.php?cmd=5929
+#EXTINF:-1, tvg-logo="Hadi.png" group-title="Information",Hadi
+http://iptvcanales.com/xw/premium.php?cmd=5932
+#EXTINF:-1, tvg-logo="Arihant.png" group-title="Information",Arihant
+http://iptvcanales.com/xw/premium.php?cmd=5937
+#EXTINF:-1, tvg-logo="Aastha TV.png" group-title="Information",Aastha TV
+http://iptvcanales.com/xw/premium.php?cmd=5939
+#EXTINF:-1, tvg-logo="Aastha Bhajan.png" group-title="Information",Aastha Bhajan
+http://iptvcanales.com/xw/premium.php?cmd=5942
+#EXTINF:-1, tvg-logo="Geo International.png" group-title="Information",Geo International
+http://iptvcanales.com/xw/premium.php?cmd=5947
+#EXTINF:-1, tvg-logo="Set Max.png" group-title="Information",Set Max
+http://iptvcanales.com/xw/premium.php?cmd=5949
+#EXTINF:-1, tvg-logo="Cartoon Network India.png" group-title="Information",Cartoon Network India
+http://iptvcanales.com/xw/premium.php?cmd=5952
+#EXTINF:-1, tvg-logo="PTC News.png" group-title="Information",PTC News
+http://iptvcanales.com/xw/premium.php?cmd=5954
+#EXTINF:-1, tvg-logo="Geo News.png" group-title="Information",Geo News
+http://iptvcanales.com/xw/premium.php?cmd=5959
+#EXTINF:-1, tvg-logo="4TV News.png" group-title="Information",4TV News
+http://iptvcanales.com/xw/premium.php?cmd=5962
+#EXTINF:-1, tvg-logo="Zee News.png" group-title="Information",Zee News
+http://iptvcanales.com/xw/premium.php?cmd=5967
+#EXTINF:-1, tvg-logo="ABP News.png" group-title="Information",ABP News
+http://iptvcanales.com/xw/premium.php?cmd=5969
+#EXTINF:-1, tvg-logo="Aaj News.png" group-title="Information",Aaj News
+http://iptvcanales.com/xw/premium.php?cmd=5974
+#EXTINF:-1, tvg-logo="Hum TV.png" group-title="Information",Hum TV
+http://iptvcanales.com/xw/premium.php?cmd=5979
+#EXTINF:-1, tvg-logo="Aplus.png" group-title="Information",Aplus
+http://iptvcanales.com/xw/premium.php?cmd=5984
+#EXTINF:-1, tvg-logo="Hum Masala.png" group-title="Information",Hum Masala
+http://iptvcanales.com/xw/premium.php?cmd=5989
+#EXTINF:-1, tvg-logo="ARY QTV.png" group-title="Information",ARY QTV
+http://iptvcanales.com/xw/premium.php?cmd=5994
+#EXTINF:-1, tvg-logo="9x Jalwa.png" group-title="Information",9x Jalwa
+http://iptvcanales.com/xw/premium.php?cmd=5997
+#EXTINF:-1, tvg-logo="9xm.png" group-title="Information",9xm
+http://iptvcanales.com/xw/premium.php?cmd=6002
+#EXTINF:-1, tvg-logo="Music India.png" group-title="Information",Music India
+http://iptvcanales.com/xw/premium.php?cmd=6004
+#EXTINF:-1, tvg-logo="Music Express.png" group-title="Information",Music Express
+http://iptvcanales.com/xw/premium.php?cmd=6009
+#EXTINF:-1, tvg-logo="M Tune.png" group-title="Information",M Tune
+http://iptvcanales.com/xw/premium.php?cmd=6012
+#EXTINF:-1, tvg-logo="Manoranjan.png" group-title="Information",Manoranjan
+http://iptvcanales.com/xw/premium.php?cmd=6014
+#EXTINF:-1, tvg-logo="Zing.png" group-title="Information",Zing
+http://iptvcanales.com/xw/premium.php?cmd=6017
+#EXTINF:-1, tvg-logo="ARY Music.png" group-title="Information",ARY Music
+http://iptvcanales.com/xw/premium.php?cmd=6019
+#EXTINF:-1, tvg-logo="Osn Cricket.png" group-title="Information",Osn Cricket
+http://iptvcanales.com/xw/premium.php?cmd=6024
+#EXTINF:-1, tvg-logo="Ten Cricket.png" group-title="Information",Ten Cricket
+http://iptvcanales.com/xw/premium.php?cmd=6029
+#EXTINF:-1, tvg-logo="Ten Action.png" group-title="Information",Ten Action
+http://iptvcanales.com/xw/premium.php?cmd=6034
+#EXTINF:-1, tvg-logo="Sony Six.png" group-title="Information",Sony Six
+http://iptvcanales.com/xw/premium.php?cmd=6039
+#EXTINF:-1, tvg-logo="Star Sports 1.png" group-title="Information",Star Sports 1
+http://iptvcanales.com/xw/premium.php?cmd=6042
+#EXTINF:-1, tvg-logo="Star Sports 4.png" group-title="Information",Star Sports 4
+http://iptvcanales.com/xw/premium.php?cmd=6052
+#EXTINF:-1, tvg-logo="Ten Sports.png" group-title="Information",Ten Sports
+http://iptvcanales.com/xw/premium.php?cmd=6057
+#EXTINF:-1, tvg-logo="Wb India.png" group-title="Information",Wb India
+http://iptvcanales.com/xw/premium.php?cmd=6059
+#EXTINF:-1, tvg-logo="Zee Cinema.png" group-title="Information",Zee Cinema
+http://iptvcanales.com/xw/premium.php?cmd=6062
+#EXTINF:-1, tvg-logo="Movies Ok India.png" group-title="Information",Movies Ok India
+http://iptvcanales.com/xw/premium.php?cmd=6064
+#EXTINF:-1, tvg-logo="HBO India.png" group-title="Information",HBO India
+http://iptvcanales.com/xw/premium.php?cmd=6069
+#EXTINF:-1, tvg-logo="WOW Cinema.png" group-title="Information",WOW Cinema
+http://iptvcanales.com/xw/premium.php?cmd=6074
+#EXTINF:-1, tvg-logo="Maha Movie.png" group-title="Information",Maha Movie
+http://iptvcanales.com/xw/premium.php?cmd=6077
+#EXTINF:-1, tvg-logo="PTC Punjabi.png" group-title="Information",PTC Punjabi
+http://iptvcanales.com/xw/premium.php?cmd=6079
+#EXTINF:-1, tvg-logo="PTC Chakde.png" group-title="Information",PTC Chakde
+http://iptvcanales.com/xw/premium.php?cmd=6082
+#EXTINF:-1, tvg-logo="Cinema TV.png" group-title="Information",Cinema TV
+http://iptvcanales.com/xw/premium.php?cmd=6087
+#EXTINF:-1, tvg-logo="Star Movies.png" group-title="Information",Star Movies
+http://iptvcanales.com/xw/premium.php?cmd=6092
+#EXTINF:-1, tvg-logo="B4u Movies.png" group-title="Information",B4u Movies
+http://iptvcanales.com/xw/premium.php?cmd=6094
+#EXTINF:-1, tvg-logo="ABC Miami.png" group-title="Information",ABC Miami
+http://iptvcanales.com/xw/premium.php?cmd=6114
+#EXTINF:-1, tvg-logo="Univision.png" group-title="Entertainments",Univision
+http://iptvcanales.com/xw/premium.php?cmd=6299
+#EXTINF:-1, tvg-logo="NBC Sport Network.png" group-title="Sports",NBC Sport Network
+http://iptvcanales.com/xw/premium.php?cmd=6302
+#EXTINF:-1, tvg-logo="HGTV East.png" group-title="Information",HGTV East
+http://iptvcanales.com/xw/premium.php?cmd=6307
+#EXTINF:-1, tvg-logo="Canal De Las Estrellas.png" group-title="Information",Canal De Las Estrellas
+http://iptvcanales.com/xw/premium.php?cmd=6354
+#EXTINF:-1, tvg-logo="Ultimate Events & Sports.png" group-title="Sports",Ultimate Events & Sports
+http://iptvcanales.com/xw/premium.php?cmd=6394
+#EXTINF:-1, tvg-logo="Cartoon Network.png" group-title="Information",Cartoon Network
+http://iptvcanales.com/xw/premium.php?cmd=421
