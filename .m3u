@@ -1,4 +1,1119 @@
 #EXTM3U
+#EXTINF:-1,=====SPANISH TV CHANNELS=====
+http://cdn.step-tv.com:8000/live/wahab/wahab/488.ts
+#EXTINF:-1,ES:CANAL_1
+http://cdn.step-tv.com:8000/live/wahab/wahab/479.ts
+#EXTINF:-1,ES:CANAL_2
+http://cdn.step-tv.com:8000/live/wahab/wahab/480.ts
+#EXTINF:-1,ES:CANAL_TOROS
+http://cdn.step-tv.com:8000/live/wahab/wahab/385.ts
+#EXTINF:-1,ES:CANAL_LIGA
+http://cdn.step-tv.com:8000/live/wahab/wahab/386.ts
+#EXTINF:-1,ES:CANAL_GOLF
+http://cdn.step-tv.com:8000/live/wahab/wahab/387.ts
+#EXTINF:-1,ES:CANAL_FUTBOL
+http://cdn.step-tv.com:8000/live/wahab/wahab/388.ts
+#EXTINF:-1,ES:CANAL_COMEDIA
+http://cdn.step-tv.com:8000/live/wahab/wahab/389.ts
+#EXTINF:-1,ES:CANAL_ACCION
+http://cdn.step-tv.com:8000/live/wahab/wahab/481.ts
+#EXTINF:-1,ES:CANAL_ESTRENOS
+http://cdn.step-tv.com:8000/live/wahab/wahab/1853.ts
+#EXTINF:-1,ES:C+_SERIES
+http://cdn.step-tv.com:8000/live/wahab/wahab/1854.ts
+#EXTINF:-1,ES:CANAL_DCINE
+http://cdn.step-tv.com:8000/live/wahab/wahab/482.ts
+#EXTINF:-1,ES:ODISEA
+http://cdn.step-tv.com:8000/live/wahab/wahab/1857.ts
+#EXTINF:-1,ES:CANAL_DE_LASESTRELLAS
+http://cdn.step-tv.com:8000/live/wahab/wahab/1856.ts
+#EXTINF:-1,ES:LA_SEXTA
+http://cdn.step-tv.com:8000/live/wahab/wahab/382.ts
+#EXTINF:-1,ES:REAL_MADRID
+http://cdn.step-tv.com:8000/live/wahab/wahab/1662.ts
+#EXTINF:-1,ES:Barça
+http://cdn.step-tv.com:8000/live/wahab/wahab/484.ts
+#EXTINF:-1,ES:EUROSPORT
+http://cdn.step-tv.com:8000/live/wahab/wahab/1668.ts
+#EXTINF:-1,ES:EURONEWS
+http://cdn.step-tv.com:8000/live/wahab/wahab/1806.ts
+#EXTINF:-1,ES:VIAJAR_TV
+http://cdn.step-tv.com:8000/live/wahab/wahab/1890.ts
+#EXTINF:-1,ES:TELEDEPORTE
+http://cdn.step-tv.com:8000/live/wahab/wahab/1893.ts
+#EXTINF:-1,ES:BABY_TV
+http://cdn.step-tv.com:8000/live/wahab/wahab/1891.ts
+#EXTINF:-1,ES:40_TV
+http://cdn.step-tv.com:8000/live/wahab/wahab/1892.ts
+#EXTINF:-1,ES:SYFY
+http://cdn.step-tv.com:8000/live/wahab/wahab/1876.ts
+#EXTINF:-1,ES:NAT_GEO_WILD
+http://cdn.step-tv.com:8000/live/wahab/wahab/1875.ts
+#EXTINF:-1,ES:KISS_TV
+http://cdn.step-tv.com:8000/live/wahab/wahab/1877.ts
+#EXTINF:-1,ES:DISNEY_CHANNEL
+http://cdn.step-tv.com:8000/live/wahab/wahab/1671.ts
+#EXTINF:-1,ES:DISCOVERY
+http://cdn.step-tv.com:8000/live/wahab/wahab/1672.ts
+#EXTINF:-1,ES:CUATRO
+http://cdn.step-tv.com:8000/live/wahab/wahab/1673.ts
+#EXTINF:-1,ES:TELECINCO
+http://cdn.step-tv.com:8000/live/wahab/wahab/1660.ts
+#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC
+http://cdn.step-tv.com:8000/live/wahab/wahab/1664.ts
+#EXTINF:-1,ES:MOVISTAR_F1
+http://cdn.step-tv.com:8000/live/wahab/wahab/1661.ts
+#EXTINF:-1,ES:MEGA
+http://cdn.step-tv.com:8000/live/wahab/wahab/383.ts
+#EXTINF:-1,ES:La2
+http://cdn.step-tv.com:8000/live/wahab/wahab/1666.ts
+#EXTINF:-1,ES:La1
+http://cdn.step-tv.com:8000/live/wahab/wahab/1667.ts
+#EXTINF:-1,ES:HOLLYWOOD_HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/973.ts
+#EXTINF:-1,ES:HISTORIA
+http://cdn.step-tv.com:8000/live/wahab/wahab/381.ts
+#EXTINF:-1,ES:GALICIA
+http://cdn.step-tv.com:8000/live/wahab/wahab/1669.ts
+#EXTINF:-1,ES:FOX_LIFE
+http://cdn.step-tv.com:8000/live/wahab/wahab/1665.ts
+#EXTINF:-1,ES:FOX1
+http://cdn.step-tv.com:8000/live/wahab/wahab/1670.ts
+#EXTINF:-1,ES:CLAN_TVE
+http://cdn.step-tv.com:8000/live/wahab/wahab/1676.ts
+#EXTINF:-1,ES:CANAL_13
+http://cdn.step-tv.com:8000/live/wahab/wahab/969.ts
+#EXTINF:-1,ES:BEIN_SPORTS_Ñ
+http://cdn.step-tv.com:8000/live/wahab/wahab/486.ts
+#EXTINF:-1,ES:AXN_WHITE_SPAIN
+http://cdn.step-tv.com:8000/live/wahab/wahab/1674.ts
+#EXTINF:-1,ES:AXN
+http://cdn.step-tv.com:8000/live/wahab/wahab/487.ts
+#EXTINF:-1,ES:ANTENNA3
+http://cdn.step-tv.com:8000/live/wahab/wahab/1675.ts
+#EXTINF:-1,ES:ANDALUCIA_TV
+http://cdn.step-tv.com:8000/live/wahab/wahab/1807.ts
+#EXTINF:-1,=====United Kingdom tv channels=====
+http://cdn.step-tv.com:8000/live/wahab/wahab/454.ts
+#EXTINF:-1,UK:ITV1
+http://cdn.step-tv.com:8000/live/wahab/wahab/447.ts
+#EXTINF:-1,UK:ITV2
+http://cdn.step-tv.com:8000/live/wahab/wahab/448.ts
+#EXTINF:-1,UK:ITV3
+http://cdn.step-tv.com:8000/live/wahab/wahab/321.ts
+#EXTINF:-1,UK:ITV4
+http://cdn.step-tv.com:8000/live/wahab/wahab/320.ts
+#EXTINF:-1,UK:MORE_4
+http://cdn.step-tv.com:8000/live/wahab/wahab/1813.ts
+#EXTINF:-1,UK:BBC1
+http://cdn.step-tv.com:8000/live/wahab/wahab/318.ts
+#EXTINF:-1,UK:BBC2
+http://cdn.step-tv.com:8000/live/wahab/wahab/317.ts
+#EXTINF:-1,UK:BBC3
+http://cdn.step-tv.com:8000/live/wahab/wahab/316.ts
+#EXTINF:-1,UK:BBC4
+http://cdn.step-tv.com:8000/live/wahab/wahab/315.ts
+#EXTINF:-1,UK:DISNEY_JUNIOR
+http://cdn.step-tv.com:8000/live/wahab/wahab/286.ts
+#EXTINF:-1,UK:NICKELODEON
+http://cdn.step-tv.com:8000/live/wahab/wahab/288.ts
+#EXTINF:-1,UK:SKY_DISNEY_CHANNEL
+http://cdn.step-tv.com:8000/live/wahab/wahab/950.ts
+#EXTINF:-1,UK:RTE2HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/322.ts
+#EXTINF:-1,UK:RTE1HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/323.ts
+#EXTINF:-1,UK:SENTANTA_IRELAND
+http://cdn.step-tv.com:8000/live/wahab/wahab/276.ts
+#EXTINF:-1,UK:SKY_ONE
+http://cdn.step-tv.com:8000/live/wahab/wahab/289.ts
+#EXTINF:-1,UK:SKY_TWO
+http://cdn.step-tv.com:8000/live/wahab/wahab/285.ts
+#EXTINF:-1,UK:SKY_MOVIES_THRILLER
+http://cdn.step-tv.com:8000/live/wahab/wahab/290.ts
+#EXTINF:-1,UK:SKY_MOVIES_SELECT
+http://cdn.step-tv.com:8000/live/wahab/wahab/291.ts
+#EXTINF:-1,UK:SKY_MOVIES_PREMIERE
+http://cdn.step-tv.com:8000/live/wahab/wahab/293.ts
+#EXTINF:-1,UK:SKY_MOVIES_MODERN_GREAT
+http://cdn.step-tv.com:8000/live/wahab/wahab/295.ts
+#EXTINF:-1,UK:SKY_MOVIES_FAMILY
+http://cdn.step-tv.com:8000/live/wahab/wahab/309.ts
+#EXTINF:-1,UK:SKY_MOVIES_DRAMA&ROMANCE
+http://cdn.step-tv.com:8000/live/wahab/wahab/299.ts
+#EXTINF:-1,UK:SKY_MOVIES_COMEDY
+http://cdn.step-tv.com:8000/live/wahab/wahab/311.ts
+#EXTINF:-1,UK:SKY_MOVIES_ACTION
+http://cdn.step-tv.com:8000/live/wahab/wahab/300.ts
+#EXTINF:-1,UK:TRUE_MOVIES2
+http://cdn.step-tv.com:8000/live/wahab/wahab/1399.ts
+#EXTINF:-1,UK:CBS_DRAMA
+http://cdn.step-tv.com:8000/live/wahab/wahab/1398.ts
+#EXTINF:-1,UK:CARTOON_NETWORK
+http://cdn.step-tv.com:8000/live/wahab/wahab/1400.ts
+#EXTINF:-1,UK:SKY_ATLANTIC_HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/306.ts
+#EXTINF:-1,UK:TRUE_MOVIES1
+http://cdn.step-tv.com:8000/live/wahab/wahab/287.ts
+#EXTINF:-1,UK:ANIMAL_PALNET
+http://cdn.step-tv.com:8000/live/wahab/wahab/314.ts
+#EXTINF:-1,UK:NATIONAL_GEOGRAPHY
+http://cdn.step-tv.com:8000/live/wahab/wahab/312.ts
+#EXTINF:-1,UK:DISCOVERY
+http://cdn.step-tv.com:8000/live/wahab/wahab/313.ts
+#EXTINF:-1,UK:HISTORY_CHANNEL
+http://cdn.step-tv.com:8000/live/wahab/wahab/284.ts
+#EXTINF:-1,UK:LIVING
+http://cdn.step-tv.com:8000/live/wahab/wahab/319.ts
+#EXTINF:-1,UK:MORE4
+http://cdn.step-tv.com:8000/live/wahab/wahab/270.ts
+#EXTINF:-1,UK:BT_SPORTS_2HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/281.ts
+#EXTINF:-1,UK:BT_SPORTS_1HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/282.ts
+#EXTINF:-1,UK:BOX_NATION
+http://cdn.step-tv.com:8000/live/wahab/wahab/280.ts
+#EXTINF:-1,UK:ESPN_HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/279.ts
+#EXTINF:-1,UK:EUROSPORT_1HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/278.ts
+#EXTINF:-1,UK:EUROSPORT_2HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/277.ts
+#EXTINF:-1,Sky Sports News HD (UK)
+http://cdn.step-tv.com:8000/live/wahab/wahab/271.ts
+#EXTINF:-1,UK:SKY_SPORTS_F1HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/272.ts
+#EXTINF:-1,UK:SKY_SPORTS_1HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/275.ts
+#EXTINF:-1,UK:SKY_SPORTS_2HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/274.ts
+#EXTINF:-1,UK:SKY_SPORTS_3HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/273.ts
+#EXTINF:-1,UK:SKY_SPORTS_4HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/776.ts
+#EXTINF:-1,UK:SKY_SPORTS_5HD
+http://cdn.step-tv.com:8000/live/wahab/wahab/777.ts
+#EXTINF:-1,UK_Sky Movies Drama
+http://vip-iptv.com:80/live/douglas/douglas/294.ts
+#EXTINF:-1,UK_Sky Movies Action
+http://vip-iptv.com:80/live/douglas/douglas/617.ts
+#EXTINF:-1,UK_Sky Movies Greats
+http://vip-iptv.com:80/live/douglas/douglas/360.ts
+#EXTINF:-1,UK_Sky Movies Family
+http://vip-iptv.com:80/live/douglas/douglas/357.ts
+#EXTINF:-1,UK_Sky Movies Premiere
+http://vip-iptv.com:80/live/douglas/douglas/358.ts
+#EXTINF:-1,UK_Sky Movies Comedy
+http://vip-iptv.com:80/live/douglas/douglas/356.ts
+#EXTINF:-1,UK_Sky Movies Comedy Central
+http://vip-iptv.com:80/live/douglas/douglas/362.ts
+#EXTINF:-1,UK_Sky Movies Select
+http://vip-iptv.com:80/live/douglas/douglas/570.ts
+#EXTINF:-1,UK_Sky Movies Sci-Fi
+http://vip-iptv.com:80/live/douglas/douglas/361.ts
+#EXTINF:-1,UK_Sky Movies Disney
+http://vip-iptv.com:80/live/douglas/douglas/412.ts
+#EXTINF:-1,UK_Sky Living
+http://vip-iptv.com:80/live/douglas/douglas/415.ts
+#EXTINF:-1,UK_Sky 1
+http://vip-iptv.com:80/live/douglas/douglas/430.ts
+#EXTINF:-1,UK_Sky 2
+http://vip-iptv.com:80/live/douglas/douglas/440.ts
+#EXTINF:-1,UK_Sky Thriller
+http://vip-iptv.com:80/live/douglas/douglas/352.ts
+#EXTINF:-1,UK_Sky Arts
+http://vip-iptv.com:80/live/douglas/douglas/536.ts
+#EXTINF:-1,UK_Channel 4
+http://vip-iptv.com:80/live/douglas/douglas/28.ts
+#EXTINF:-1,UK_Channel 5
+http://vip-iptv.com:80/live/douglas/douglas/29.ts
+#EXTINF:-1,UK_More 4
+http://vip-iptv.com:80/live/douglas/douglas/364.ts
+#EXTINF:-1,UK_Film 4
+http://vip-iptv.com:80/live/douglas/douglas/31.ts
+#EXTINF:-1,UK_5USA
+http://vip-iptv.com:80/live/douglas/douglas/445.ts
+#EXTINF:-1,1Mb_UK: bt sports 1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1945.ts
+#EXTINF:-1,1Mb_UK: bt sports 2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1944.ts
+#EXTINF:-1,1Mb_UK: Eurosport 1 HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1947.ts
+#EXTINF:-1,1Mb_UK: Eurosport 2 HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1946.ts
+#EXTINF:-1,1Mb_UK: mtv hits
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1943.ts
+#EXTINF:-1,1Mb_UK: mtv music
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1942.ts
+#EXTINF:-1,1Mb_UK: Sky Sports 1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1919.ts
+#EXTINF:-1,1Mb_UK: Sky Sports 2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1918.ts
+#EXTINF:-1,1Mb_UK: sky sports 3
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1917.ts
+#EXTINF:-1,1Mb_UK: sky sports 4
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1916.ts
+#EXTINF:-1,1Mb_UK: sky sports 5
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1915.ts
+#EXTINF:-1,1Mb_UK: Sky Sports F1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1914.ts
+#EXTINF:-1,1Mb_UK: sky sports news
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1913.ts
+#EXTINF:-1,UK_CBS
+http://vip-iptv.com:80/live/douglas/douglas/533.ts
+#EXTINF:-1,UK_Horror Channel
+http://vip-iptv.com:80/live/douglas/douglas/572.ts
+#EXTINF:-1,UK_TCM
+http://vip-iptv.com:80/live/douglas/douglas/299.ts
+#EXTINF:-1,UK_Drama
+http://vip-iptv.com:80/live/douglas/douglas/741.ts
+#EXTINF:-1,UK_Gold
+http://vip-iptv.com:80/live/douglas/douglas/419.ts
+#EXTINF:-1,UK_Alibi
+http://vip-iptv.com:80/live/douglas/douglas/1157.ts
+#EXTINF:-1,UK_Yesterday
+http://vip-iptv.com:80/live/douglas/douglas/1154.ts
+#EXTINF:-1,UK_Home
+http://vip-iptv.com:80/live/douglas/douglas/1156.ts
+#EXTINF:-1,UK_Dave
+http://vip-iptv.com:80/live/douglas/douglas/417.ts
+#EXTINF:-1,UK_U TV
+http://vip-iptv.com:80/live/douglas/douglas/446.ts
+#EXTINF:-1,UK_Spike
+http://vip-iptv.com:80/live/douglas/douglas/442.ts
+#EXTINF:-1,UK_CI
+http://vip-iptv.com:80/live/douglas/douglas/537.ts
+#EXTINF:-1,UK_TLC
+http://vip-iptv.com:80/live/douglas/douglas/576.ts
+#EXTINF:-1,UK_Quest
+http://vip-iptv.com:80/live/douglas/douglas/569.ts
+#EXTINF:-1,UK_AKA
+http://vip-iptv.com:80/live/douglas/douglas/482.ts
+#EXTINF:-1,UK_Watch
+http://vip-iptv.com:80/live/douglas/douglas/1152.ts
+#EXTINF:-1,UK_Pick
+http://vip-iptv.com:80/live/douglas/douglas/744.ts
+#EXTINF:-1,UK_3E
+http://vip-iptv.com:80/live/douglas/douglas/481.ts
+#EXTINF:-1,UK_H2
+http://vip-iptv.com:80/live/douglas/douglas/477.ts
+#EXTINF:-1,UK_Really
+http://vip-iptv.com:80/live/douglas/douglas/1158.ts
+#EXTINF:-1,UK_Good Food
+http://vip-iptv.com:80/live/douglas/douglas/1153.ts
+#EXTINF:-1,UK_Life Time
+http://vip-iptv.com:80/live/douglas/douglas/577.ts
+#EXTINF:-1,UK_Community
+http://vip-iptv.com:80/live/douglas/douglas/535.ts
+#EXTINF:-1,UK_Ulster TV Ireland
+http://vip-iptv.com:80/live/douglas/douglas/742.ts
+#EXTINF:-1,UK_FOX
+http://vip-iptv.com:80/live/douglas/douglas/571.ts
+#EXTINF:-1,UK_Disney Channel
+http://vip-iptv.com:80/live/douglas/douglas/1161.ts
+#EXTINF:-1,UK_Disney XD
+http://vip-iptv.com:80/live/douglas/douglas/1160.ts
+#EXTINF:-1,UK_Disney Jr
+http://vip-iptv.com:80/live/douglas/douglas/359.ts
+#EXTINF:-1,UK_Discovery
+http://vip-iptv.com:80/live/douglas/douglas/578.ts
+#EXTINF:-1,UK_DiscoveryTurbo
+http://vip-iptv.com:80/live/douglas/douglas/451.ts
+#EXTINF:-1,UK_Discovery Science
+http://vip-iptv.com:80/live/douglas/douglas/575.ts
+#EXTINF:-1,UK_Discovery History
+http://vip-iptv.com:80/live/douglas/douglas/579.ts
+#EXTINF:-1,UK_Discovery Home Health
+http://vip-iptv.com:80/live/douglas/douglas/24.ts
+#EXTINF:-1,UK_National Geographic
+http://vip-iptv.com:80/live/douglas/douglas/618.ts
+#EXTINF:-1,UK_Nat Geo Wild
+http://vip-iptv.com:80/live/douglas/douglas/531.ts
+#EXTINF:-1,UK_Animal Planet
+http://vip-iptv.com:80/live/douglas/douglas/441.ts
+#EXTINF:-1,UK_Eden
+http://vip-iptv.com:80/live/douglas/douglas/1155.ts
+#EXTINF:-1,UK_History
+http://vip-iptv.com:80/live/douglas/douglas/1159.ts
+#EXTINF:-1,UK_Travel
+http://vip-iptv.com:80/live/douglas/douglas/89.ts
+#EXTINF:-1,UK_BT Sports 1
+http://vip-iptv.com:80/live/douglas/douglas/528.ts
+#EXTINF:-1,UK_BT Sports 2
+http://vip-iptv.com:80/live/douglas/douglas/350.ts
+#EXTINF:-1,UK_Sky Sports 1
+http://vip-iptv.com:80/live/douglas/douglas/290.ts
+#EXTINF:-1,UK_Sky Sports 2
+http://vip-iptv.com:80/live/douglas/douglas/291.ts
+#EXTINF:-1,UK_Sky Sports 3
+http://vip-iptv.com:80/live/douglas/douglas/353.ts
+#EXTINF:-1,UK_Sky Sports 4
+http://vip-iptv.com:80/live/douglas/douglas/354.ts
+#EXTINF:-1,UK_Sky Sports 5
+http://vip-iptv.com:80/live/douglas/douglas/355.ts
+#EXTINF:-1,UK_Sky Sports F1
+http://vip-iptv.com:80/live/douglas/douglas/427.ts
+#EXTINF:-1,UK_Chelsea TV
+http://vip-iptv.com:80/live/douglas/douglas/748.ts
+#EXTINF:-1,UK_Manchester United TV
+http://vip-iptv.com:80/live/douglas/douglas/944.ts
+#EXTINF:-1,UK_At The Races
+http://vip-iptv.com:80/live/douglas/douglas/1162.ts
+#EXTINF:-1,US_HSN 2
+http://vip-iptv.com:80/live/douglas/douglas/286.ts
+#EXTINF:-1,US_VEVO3_HD
+http://vip-iptv.com:80/live/douglas/douglas/285.ts
+#EXTINF:-1,US_VEVO2_HD
+http://vip-iptv.com:80/live/douglas/douglas/283.ts
+#EXTINF:-1,US_VEVO1_HD
+http://vip-iptv.com:80/live/douglas/douglas/282.ts
+#EXTINF:-1,US_KISSTV_MUSIC
+http://vip-iptv.com:80/live/douglas/douglas/281.ts
+#EXTINF:-1,US_BLOOMBERG
+http://vip-iptv.com:80/live/douglas/douglas/289.ts
+#EXTINF:-1,NL_HBO1
+http://vip-iptv.com:80/live/douglas/douglas/3033.ts
+#EXTINF:-1,NL_HBO2
+http://vip-iptv.com:80/live/douglas/douglas/3034.ts
+#EXTINF:-1,NL_HBO3
+http://vip-iptv.com:80/live/douglas/douglas/3035.ts
+#EXTINF:-1,NL_Film1 Action
+http://vip-iptv.com:80/live/douglas/douglas/202.ts
+#EXTINF:-1,NL_Film1 Premiere
+http://vip-iptv.com:80/live/douglas/douglas/301.ts
+#EXTINF:-1,NL_Film1 Sundance
+http://vip-iptv.com:80/live/douglas/douglas/3027.ts
+#EXTINF:-1,NL_Film1 Comedy & Kids
+http://vip-iptv.com:80/live/douglas/douglas/3004.ts
+#EXTINF:-1,Local USA: Starze Dge HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2143.ts
+#EXTINF:-1,Local USA: Starz Encore HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2144.ts
+#EXTINF:-1,Local USA: Starz East HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2145.ts
+#EXTINF:-1,Local USA: Starz Cinema HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2146.ts
+#EXTINF:-1,Local USA: NBC HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2148.ts
+#EXTINF:-1,Local USA: NBA HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2149.ts
+#EXTINF:-1,Local USA: History HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2150.ts
+#EXTINF:-1,Local USA: HBO Zone HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2151.ts
+#EXTINF:-1,Local USA: HBO Signature HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2152.ts
+#EXTINF:-1,Local USA: HBO East
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2153.ts
+#EXTINF:-1,Local USA: HBO Comedy HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2154.ts
+#EXTINF:-1,Local USA: FOX Sport 2 HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2155.ts
+#EXTINF:-1,Local USA: FOX Sport 1 HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2156.ts
+#EXTINF:-1,Local USA: FOX HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2157.ts
+#EXTINF:-1,Local USA: ESPN 2 HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2159.ts
+#EXTINF:-1,Local USA: ESPN 1 HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2160.ts
+#EXTINF:-1,Local USA: DISCOVERY TURBO EN
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2161.ts
+#EXTINF:-1,Local USA: Discovery HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2163.ts
+#EXTINF:-1,Local USA: CNN HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2165.ts
+#EXTINF:-1,Local USA: Cinemax East HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2166.ts
+#EXTINF:-1,Local USA: Cinemax Action HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2167.ts
+#EXTINF:-1,Local USA: Cinemax 5 Star HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2168.ts
+#EXTINF:-1,Local USA: CBS HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2169.ts
+#EXTINF:-1,Local USA: CBC
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2170.ts
+#EXTINF:-1,Local USA: BLOOMBERG HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2171.ts
+#EXTINF:-1,Local USA: ABC NEWS HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2172.ts
+#EXTINF:-1,Uk: Christmas 24
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2584.ts
+#EXTINF:-1,UK: BT SPORT EUROPE
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1567.ts
+#EXTINF:-1,UK Local: Yesterday
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1823.ts
+#EXTINF:-1,UK Local: Watch
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1824.ts
+#EXTINF:-1,UK Local: Viasat Sport
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1835.ts
+#EXTINF:-1,UK Local: UTV UK  LOCAL
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1834.ts
+#EXTINF:-1,UK Local: Uk Real Lives
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1825.ts
+#EXTINF:-1,UK Local: UK H2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1826.ts
+#EXTINF:-1,UK Local: TV1000 Action
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1836.ts
+#EXTINF:-1,UK Local: Really
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1827.ts
+#EXTINF:-1,UK Local: PBS America
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1838.ts
+#EXTINF:-1,UK Local: National Geographic Wild
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1832.ts
+#EXTINF:-1,UK Local: National Geographic
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1833.ts
+#EXTINF:-1,UK Local: More 4
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1828.ts
+#EXTINF:-1,UK Local: Fox uk
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1829.ts
+#EXTINF:-1,UK Local: Eden
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1830.ts
+#EXTINF:-1,UK Local: E!
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1839.ts
+#EXTINF:-1,UK Local: Drama
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1831.ts
+#EXTINF:-1,UK Local: BT Sports Moisac
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1840.ts
+#EXTINF:-1,UK Local: BT Sports Extra
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1841.ts
+#EXTINF:-1,UK: zoom
+http://hyper.de1-eu.com:8000/live/partovi/partovi/955.ts
+#EXTINF:-1,UK: VIRGIN TV MUSIC
+http://hyper.de1-eu.com:8000/live/partovi/partovi/959.ts
+#EXTINF:-1,UK: vh1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/960.ts
+#EXTINF:-1,UK: TV3
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1054.ts
+#EXTINF:-1,UK: True Movies 2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1056.ts
+#EXTINF:-1,UK: true movies
+http://hyper.de1-eu.com:8000/live/partovi/partovi/961.ts
+#EXTINF:-1,UK: True Entertainment
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1057.ts
+#EXTINF:-1,UK: True Drama
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1058.ts
+#EXTINF:-1,UK: TLC
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1060.ts
+#EXTINF:-1,UK: sony entertainment
+http://hyper.de1-eu.com:8000/live/partovi/partovi/962.ts
+#EXTINF:-1,UK: sky two
+http://hyper.de1-eu.com:8000/live/partovi/partovi/963.ts
+#EXTINF:-1,UK: sky sports news
+http://hyper.de1-eu.com:8000/live/partovi/partovi/964.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/965.ts
+#EXTINF:-1,UK: sky sports 5
+http://hyper.de1-eu.com:8000/live/partovi/partovi/966.ts
+#EXTINF:-1,UK: sky sports 4
+http://hyper.de1-eu.com:8000/live/partovi/partovi/967.ts
+#EXTINF:-1,UK: sky sports 3
+http://hyper.de1-eu.com:8000/live/partovi/partovi/968.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/969.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/970.ts
+#EXTINF:-1,UK: sky premiere sports
+http://hyper.de1-eu.com:8000/live/partovi/partovi/976.ts
+#EXTINF:-1,UK: sky one
+http://hyper.de1-eu.com:8000/live/partovi/partovi/977.ts
+#EXTINF:-1,UK: sky news
+http://hyper.de1-eu.com:8000/live/partovi/partovi/978.ts
+#EXTINF:-1,UK: sky movies thriller
+http://hyper.de1-eu.com:8000/live/partovi/partovi/979.ts
+#EXTINF:-1,UK: sky movies select
+http://hyper.de1-eu.com:8000/live/partovi/partovi/980.ts
+#EXTINF:-1,UK: sky movies scifi
+http://hyper.de1-eu.com:8000/live/partovi/partovi/981.ts
+#EXTINF:-1,UK: sky movies premiere
+http://hyper.de1-eu.com:8000/live/partovi/partovi/982.ts
+#EXTINF:-1,UK: sky movies modern great
+http://hyper.de1-eu.com:8000/live/partovi/partovi/983.ts
+#EXTINF:-1,UK: sky movies family
+http://hyper.de1-eu.com:8000/live/partovi/partovi/984.ts
+#EXTINF:-1,UK: sky movies drama
+http://hyper.de1-eu.com:8000/live/partovi/partovi/985.ts
+#EXTINF:-1,UK: sky movies disney
+http://hyper.de1-eu.com:8000/live/partovi/partovi/986.ts
+#EXTINF:-1,UK: sky movies comedy
+http://hyper.de1-eu.com:8000/live/partovi/partovi/987.ts
+#EXTINF:-1,UK: sky movies action
+http://hyper.de1-eu.com:8000/live/partovi/partovi/988.ts
+#EXTINF:-1,UK: sky liverpool
+http://hyper.de1-eu.com:8000/live/partovi/partovi/989.ts
+#EXTINF:-1,UK: sky atlantic
+http://hyper.de1-eu.com:8000/live/partovi/partovi/990.ts
+#EXTINF:-1,UK: sky arts1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/991.ts
+#EXTINF:-1,UK: skt art2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/992.ts
+#EXTINF:-1,UK: setmax
+http://hyper.de1-eu.com:8000/live/partovi/partovi/993.ts
+#EXTINF:-1,UK: Setanta
+http://hyper.de1-eu.com:8000/live/partovi/partovi/994.ts
+#EXTINF:-1,UK: rte2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/995.ts
+#EXTINF:-1,UK: rte1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/996.ts
+#EXTINF:-1,UK: racing
+http://hyper.de1-eu.com:8000/live/partovi/partovi/997.ts
+#EXTINF:-1,UK: quest
+http://hyper.de1-eu.com:8000/live/partovi/partovi/998.ts
+#EXTINF:-1,UK: POP
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1062.ts
+#EXTINF:-1,UK: pick
+http://hyper.de1-eu.com:8000/live/partovi/partovi/999.ts
+#EXTINF:-1,UK: nicktoons
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1000.ts
+#EXTINF:-1,UK: nickelodeon
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1001.ts
+#EXTINF:-1,UK: Nick JR
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1063.ts
+#EXTINF:-1,UK: nat geo wild
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1002.ts
+#EXTINF:-1,UK: nat geo
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1003.ts
+#EXTINF:-1,UK: mutv
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1004.ts
+#EXTINF:-1,UK: mtvHDlive
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1007.ts
+#EXTINF:-1,UK: mtv music
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1005.ts
+#EXTINF:-1,UK: mtv hits
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1006.ts
+#EXTINF:-1,UK: MTV Classic
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1064.ts
+#EXTINF:-1,UK: movies4men
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1010.ts
+#EXTINF:-1,UK: movies showcase
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1008.ts
+#EXTINF:-1,UK: movies premiere 1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1009.ts
+#EXTINF:-1,UK: motors
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1011.ts
+#EXTINF:-1,UK: itv4
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1012.ts
+#EXTINF:-1,UK: itv3
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1013.ts
+#EXTINF:-1,UK: itv2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1014.ts
+#EXTINF:-1,UK: itv1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1015.ts
+#EXTINF:-1,UK: investigation discovery
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1016.ts
+#EXTINF:-1,UK: Home
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1065.ts
+#EXTINF:-1,UK: history
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1017.ts
+#EXTINF:-1,UK: Good Food
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1067.ts
+#EXTINF:-1,UK: gold
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1018.ts
+#EXTINF:-1,UK: fox
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1019.ts
+#EXTINF:-1,UK: five
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1020.ts
+#EXTINF:-1,UK: film4
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1021.ts
+#EXTINF:-1,UK: Eurosport 2 HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1070.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1071.ts
+#EXTINF:-1,UK: espn hd
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1022.ts
+#EXTINF:-1,UK: e4
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1023.ts
+#EXTINF:-1,UK: drama
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1024.ts
+#EXTINF:-1,UK: Dmax
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1072.ts
+#EXTINF:-1,UK: Disney XD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1025.ts
+#EXTINF:-1,UK: disney junior
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1026.ts
+#EXTINF:-1,UK: disney
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1027.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1073.ts
+#EXTINF:-1,UK: Discovery Shed
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1074.ts
+#EXTINF:-1,UK: discovery science
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1028.ts
+#EXTINF:-1,UK: discovery history
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1029.ts
+#EXTINF:-1,UK: discovery
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1030.ts
+#EXTINF:-1,UK: Dave
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1075.ts
+#EXTINF:-1,UK: Crime and Investigation
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1076.ts
+#EXTINF:-1,UK: comedy central
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1031.ts
+#EXTINF:-1,UK: colors
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1032.ts
+#EXTINF:-1,UK: clubland
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1033.ts
+#EXTINF:-1,UK: Citv
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1077.ts
+#EXTINF:-1,UK: chelsea
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1034.ts
+#EXTINF:-1,UK: Channel 5
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1078.ts
+#EXTINF:-1,UK: channel 4
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1037.ts
+#EXTINF:-1,UK: cbs drama
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1038.ts
+#EXTINF:-1,UK: Cartoon Network
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1081.ts
+#EXTINF:-1,UK: BT Sports Extra
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1082.ts
+#EXTINF:-1,UK: bt sports 2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1040.ts
+#EXTINF:-1,UK: bt sports 1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1041.ts
+#EXTINF:-1,UK: BT SPORT 1 HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1039.ts
+#EXTINF:-1,UK: boxnation
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1042.ts
+#EXTINF:-1,UK: bliss (music)
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1043.ts
+#EXTINF:-1,UK: bbc4
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1044.ts
+#EXTINF:-1,UK: bbc3
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1045.ts
+#EXTINF:-1,UK: bbc2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1046.ts
+#EXTINF:-1,UK: bbc1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1047.ts
+#EXTINF:-1,UK: BBC World News
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1083.ts
+#EXTINF:-1,UK: BABY TV
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1084.ts
+#EXTINF:-1,UK: at the races
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1048.ts
+#EXTINF:-1,UK: animal planet
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1049.ts
+#EXTINF:-1,UK: alibi
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1050.ts
+#EXTINF:-1,UK: 5 usa
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1051.ts
+#EXTINF:-1,UK: 5 star
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1052.ts
+#EXTINF:-1,UK: 3E
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1053.ts
+#EXTINF:-1,Sky Sports 5 HD UK
+http://hyper.de1-eu.com:8000/live/partovi/partovi/971.ts
+#EXTINF:-1,Sky Sports 4 HD UK
+http://hyper.de1-eu.com:8000/live/partovi/partovi/972.ts
+#EXTINF:-1,Sky Sports 3 HD UK
+http://hyper.de1-eu.com:8000/live/partovi/partovi/973.ts
+#EXTINF:-1,Sky Sports 2 HD UK
+http://hyper.de1-eu.com:8000/live/partovi/partovi/974.ts
+#EXTINF:-1,Sky Sports 1 HD UK
+http://hyper.de1-eu.com:8000/live/partovi/partovi/975.ts
+#EXTINF:-1,USA: ABC News HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/924.ts
+#EXTINF:-1,USA: ESPN HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/945.ts
+#EXTINF:-1,USA: Fox Sports 1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/944.ts
+#EXTINF:-1,USA: Fox Sports 2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/943.ts
+#EXTINF:-1,USA: HBO HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/942.ts
+#EXTINF:-1,USA: NBA Sports US
+http://hyper.de1-eu.com:8000/live/partovi/partovi/941.ts
+#EXTINF:-1,USA: sport1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/932.ts
+#EXTINF:-1,USA: tsn1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/952.ts
+#EXTINF:-1,USA: tsn2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/951.ts
+#EXTINF:-1,USA: tsn3
+http://hyper.de1-eu.com:8000/live/partovi/partovi/950.ts
+#EXTINF:-1,USA: tsn4
+http://hyper.de1-eu.com:8000/live/partovi/partovi/949.ts
+#EXTINF:-1,USA: tsn5
+http://hyper.de1-eu.com:8000/live/partovi/partovi/948.ts
+#EXTINF:-1,Canada Sport: SNWL
+http://hyper.de1-eu.com:8000/live/partovi/partovi/954.ts
+#EXTINF:-1,USA-VEVO 1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1607.ts
+#EXTINF:-1,USA-VEVO 2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1606.ts
+#EXTINF:-1,USA-VEVO 3
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1605.ts
+#EXTINF:-1,Spanish: Movistar Series
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1656.ts
+#EXTINF:-1,Spanish: Cine 3D
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1657.ts
+#EXTINF:-1,Local Spanish: Viajar
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2551.ts
+#EXTINF:-1,Local Spanish: VEVO HITS
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2552.ts
+#EXTINF:-1,Local Spanish: TVE 24 Horas
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2553.ts
+#EXTINF:-1,Local Spanish: TV Canaria
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2554.ts
+#EXTINF:-1,Local Spanish: Telecinco
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2555.ts
+#EXTINF:-1,Local Spanish: TCM
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2556.ts
+#EXTINF:-1,Local Spanish: Odisea
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2557.ts
+#EXTINF:-1,Local Spanish: Levante TV
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2558.ts
+#EXTINF:-1,Local Spanish: Kiss TV
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2559.ts
+#EXTINF:-1,Local Spanish: FOX Life HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2560.ts
+#EXTINF:-1,Local Spanish: Eurosport 2
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2561.ts
+#EXTINF:-1,Local Spanish: Divinity
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2562.ts
+#EXTINF:-1,Local Spanish: Disney XD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2563.ts
+#EXTINF:-1,Local Spanish: Cosmo HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2569.ts
+#EXTINF:-1,Local Spanish: Canal Panda
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2570.ts
+#EXTINF:-1,Local Spanish: Canal Cocina
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2571.ts
+#EXTINF:-1,Local Spanish: Canal  Xtra HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2572.ts
+#EXTINF:-1,Local Spanish: Canal  Series Xtra
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2573.ts
+#EXTINF:-1,Local Spanish: Canal  Liga Multi
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2574.ts
+#EXTINF:-1,Local Spanish: Canal  Liga 2d
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2575.ts
+#EXTINF:-1,Local Spanish: Canal  Liga 2c
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2576.ts
+#EXTINF:-1,Local Spanish: Canal  Liga 2b
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2577.ts
+#EXTINF:-1,Local Spanish: Canal  Liga 2a
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2578.ts
+#EXTINF:-1,Local Spanish: Canal  Golf
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2579.ts
+#EXTINF:-1,Local Spanish: Canal  DCine ES
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2580.ts
+#EXTINF:-1,Local Spanish: Boing
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2581.ts
+#EXTINF:-1,Local Spanish: Baby TV
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2582.ts
+#EXTINF:-1,Local Spanish: 7RM Murcia
+http://hyper.de1-eu.com:8000/live/partovi/partovi/2583.ts
+#EXTINF:-1,Spanish Local: TNT Spain HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1706.ts
+#EXTINF:-1,Spanish Local: SyFy Spain HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1707.ts
+#EXTINF:-1,Spanish Local: Real Madrid Spain HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1708.ts
+#EXTINF:-1,Spanish Local: Nickelodeon HD Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1711.ts
+#EXTINF:-1,Spanish Local: Natgeo Wild Spain HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1713.ts
+#EXTINF:-1,Spanish Local: MTV Spain HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1715.ts
+#EXTINF:-1,Spanish Local: FOX Life Spain HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1721.ts
+#EXTINF:-1,Spanish Local: FDF Spain HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1723.ts
+#EXTINF:-1,Spanish Local: Energy Spain HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1725.ts
+#EXTINF:-1,Spanish Local: Discovery Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1729.ts
+#EXTINF:-1,Spanish Local: Canal Series Xtra HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1735.ts
+#EXTINF:-1,Spanish Local: Canal Partidazo
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1737.ts
+#EXTINF:-1,Spanish Local: Canal 1 HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1739.ts
+#EXTINF:-1,Spanish Local: Canal  Liga HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1741.ts
+#EXTINF:-1,Spanish Local: Canal  Futbol HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1743.ts
+#EXTINF:-1,Spanish Local: Canal  Deportes HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1744.ts
+#EXTINF:-1,Spanish Local: Canal  Dcine HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1745.ts
+#EXTINF:-1,Spanish Local: Canal  Comedia HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1746.ts
+#EXTINF:-1,Spanish Local: Canal  Accion HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1747.ts
+#EXTINF:-1,Spanish Local: AXN Spain HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1751.ts
+#EXTINF:-1,Spanish Local: AMC Spain HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/1753.ts
+#EXTINF:-1,Spanish: TNT
+http://hyper.de1-eu.com:8000/live/partovi/partovi/793.ts
+#EXTINF:-1,Spanish: REAL MADRID HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/795.ts
+#EXTINF:-1,Spanish: Odisea HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/796.ts
+#EXTINF:-1,Spanish: Nickelodeon Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/804.ts
+#EXTINF:-1,Spanish: Nick Jr Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/805.ts
+#EXTINF:-1,Spanish: National Geographic Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/762.ts
+#EXTINF:-1,Spanish: Movistar MOTO GP
+http://hyper.de1-eu.com:8000/live/partovi/partovi/764.ts
+#EXTINF:-1,Spanish: Movistar F1
+http://hyper.de1-eu.com:8000/live/partovi/partovi/797.ts
+#EXTINF:-1,Spanish: Hollywood Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/765.ts
+#EXTINF:-1,Spanish: History
+http://hyper.de1-eu.com:8000/live/partovi/partovi/766.ts
+#EXTINF:-1,Spanish: Fox Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/768.ts
+#EXTINF:-1,Spanish: Fox Crime Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/769.ts
+#EXTINF:-1,Spanish: FDF Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/770.ts
+#EXTINF:-1,Spanish: Eurosport
+http://hyper.de1-eu.com:8000/live/partovi/partovi/799.ts
+#EXTINF:-1,Spanish: Energy Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/771.ts
+#EXTINF:-1,Spanish: Disney Junior
+http://hyper.de1-eu.com:8000/live/partovi/partovi/773.ts
+#EXTINF:-1,Spanish: Discovery
+http://hyper.de1-eu.com:8000/live/partovi/partovi/800.ts
+#EXTINF:-1,Spanish: Caza y Pesca HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/801.ts
+#EXTINF:-1,Spanish: Canal Estrenos HD
+http://hyper.de1-eu.com:8000/live/partovi/partovi/776.ts
+#EXTINF:-1,Spanish: Canal   Toros
+http://hyper.de1-eu.com:8000/live/partovi/partovi/780.ts
+#EXTINF:-1,Spanish: Canal   Liga
+http://hyper.de1-eu.com:8000/live/partovi/partovi/782.ts
+#EXTINF:-1,Spanish: Canal   Golf
+http://hyper.de1-eu.com:8000/live/partovi/partovi/783.ts
+#EXTINF:-1,Spanish: Canal   Futbol
+http://hyper.de1-eu.com:8000/live/partovi/partovi/784.ts
+#EXTINF:-1,Spanish: Canal   Deportes
+http://hyper.de1-eu.com:8000/live/partovi/partovi/785.ts
+#EXTINF:-1,Spanish: Canal   Dcine
+http://hyper.de1-eu.com:8000/live/partovi/partovi/786.ts
+#EXTINF:-1,Spanish: Boing Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/788.ts
+#EXTINF:-1,Spanish: Barca TV
+http://hyper.de1-eu.com:8000/live/partovi/partovi/789.ts
+#EXTINF:-1,Spanish: AXN White Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/790.ts
+#EXTINF:-1,Spanish: AXN Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/791.ts
+#EXTINF:-1,Spanish: A&E Spain
+http://hyper.de1-eu.com:8000/live/partovi/partovi/792.ts
+#EXTINF:-1,UK_BBC News
+http://vip-iptv.com:80/live/douglas/douglas/30.ts
+#EXTINF:-1,UK_Sky News
+http://vip-iptv.com:80/live/douglas/douglas/573.ts
+#EXTINF:-1,UK_Fox News
+http://vip-iptv.com:80/live/douglas/douglas/739.ts
+#EXTINF:-1,UK_BBC One
+http://vip-iptv.com:80/live/douglas/douglas/448.ts
+#EXTINF:-1,UK_BBC TOW
+http://vip-iptv.com:80/live/douglas/douglas/43.ts
+#EXTINF:-1,UK_BBC Three
+http://vip-iptv.com:80/live/douglas/douglas/740.ts
+#EXTINF:-1,UK_BBC Four
+http://vip-iptv.com:80/live/douglas/douglas/450.ts
+#EXTINF:-1,UK_ITV1
+http://vip-iptv.com:80/live/douglas/douglas/574.ts
+#EXTINF:-1,UK_ITV2
+http://vip-iptv.com:80/live/douglas/douglas/25.ts
+#EXTINF:-1,UK_ITV3
+http://vip-iptv.com:80/live/douglas/douglas/26.ts
+#EXTINF:-1,UK_ITV4
+http://vip-iptv.com:80/live/douglas/douglas/27.ts
+#EXTINF:-1,UK_Sky Movies Drama
+http://vip-iptv.com:80/live/douglas/douglas/294.ts
+#EXTINF:-1,UK_Sky Movies Action
+http://vip-iptv.com:80/live/douglas/douglas/617.ts
+#EXTINF:-1,UK_Sky Movies Greats
+http://vip-iptv.com:80/live/douglas/douglas/360.ts
+#EXTINF:-1,UK_Sky Movies Family
+http://vip-iptv.com:80/live/douglas/douglas/357.ts
+#EXTINF:-1,UK_Sky Movies Premiere
+http://vip-iptv.com:80/live/douglas/douglas/358.ts
+#EXTINF:-1,UK_Sky Movies Comedy
+http://vip-iptv.com:80/live/douglas/douglas/356.ts
+#EXTINF:-1,UK_Sky Movies Comedy Central
+http://vip-iptv.com:80/live/douglas/douglas/362.ts
+#EXTINF:-1,UK_Sky Movies Select
+http://vip-iptv.com:80/live/douglas/douglas/570.ts
+#EXTINF:-1,UK_Sky Movies Sci-Fi
+http://vip-iptv.com:80/live/douglas/douglas/361.ts
+#EXTINF:-1,UK_Sky Movies Disney
+http://vip-iptv.com:80/live/douglas/douglas/412.ts
+#EXTINF:-1,UK_Sky Living
+http://vip-iptv.com:80/live/douglas/douglas/415.ts
+#EXTINF:-1,UK_Sky 1
+http://vip-iptv.com:80/live/douglas/douglas/430.ts
+#EXTINF:-1,UK_Sky 2
+http://vip-iptv.com:80/live/douglas/douglas/440.ts
+#EXTINF:-1,UK_Sky Thriller
+http://vip-iptv.com:80/live/douglas/douglas/352.ts
+#EXTINF:-1,UK_Sky Arts
+http://vip-iptv.com:80/live/douglas/douglas/536.ts
+#EXTINF:-1,UK_Channel 4
+http://vip-iptv.com:80/live/douglas/douglas/28.ts
+#EXTINF:-1,UK_Channel 5
+http://vip-iptv.com:80/live/douglas/douglas/29.ts
+#EXTINF:-1,UK_More 4
+http://vip-iptv.com:80/live/douglas/douglas/364.ts
+#EXTINF:-1,UK_Film 4
+http://vip-iptv.com:80/live/douglas/douglas/31.ts
+#EXTINF:-1,UK_5USA
+http://vip-iptv.com:80/live/douglas/douglas/445.ts
+#EXTINF:-1,UK_CBS
+http://vip-iptv.com:80/live/douglas/douglas/533.ts
+#EXTINF:-1,UK_Horror Channel
+http://vip-iptv.com:80/live/douglas/douglas/572.ts
+#EXTINF:-1,UK_TCM
+http://vip-iptv.com:80/live/douglas/douglas/299.ts
+#EXTINF:-1,UK_Drama
+http://vip-iptv.com:80/live/douglas/douglas/741.ts
+#EXTINF:-1,UK_Gold
+http://vip-iptv.com:80/live/douglas/douglas/419.ts
+#EXTINF:-1,UK_Alibi
+http://vip-iptv.com:80/live/douglas/douglas/1157.ts
+#EXTINF:-1,UK_Yesterday
+http://vip-iptv.com:80/live/douglas/douglas/1154.ts
+#EXTINF:-1,UK_Home
+http://vip-iptv.com:80/live/douglas/douglas/1156.ts
+#EXTINF:-1,UK_Dave
+http://vip-iptv.com:80/live/douglas/douglas/417.ts
+#EXTINF:-1,UK_U TV
+http://vip-iptv.com:80/live/douglas/douglas/446.ts
+#EXTINF:-1,UK_Spike
+http://vip-iptv.com:80/live/douglas/douglas/442.ts
+#EXTINF:-1,UK_CI
+http://vip-iptv.com:80/live/douglas/douglas/537.ts
+#EXTINF:-1,UK_TLC
+http://vip-iptv.com:80/live/douglas/douglas/576.ts
+#EXTINF:-1,UK_Quest
+http://vip-iptv.com:80/live/douglas/douglas/569.ts
+#EXTINF:-1,UK_AKA
+http://vip-iptv.com:80/live/douglas/douglas/482.ts
+#EXTINF:-1,UK_Watch
+http://vip-iptv.com:80/live/douglas/douglas/1152.ts
+#EXTINF:-1,UK_Pick
+http://vip-iptv.com:80/live/douglas/douglas/744.ts
+#EXTINF:-1,UK_3E
+http://vip-iptv.com:80/live/douglas/douglas/481.ts
+#EXTINF:-1,UK_H2
+http://vip-iptv.com:80/live/douglas/douglas/477.ts
+#EXTINF:-1,UK_Really
+http://vip-iptv.com:80/live/douglas/douglas/1158.ts
+#EXTINF:-1,UK_Good Food
+http://vip-iptv.com:80/live/douglas/douglas/1153.ts
+#EXTINF:-1,UK_Life Time
+http://vip-iptv.com:80/live/douglas/douglas/577.ts
+#EXTINF:-1,UK_Community
+http://vip-iptv.com:80/live/douglas/douglas/535.ts
+#EXTINF:-1,UK_Ulster TV Ireland
+http://vip-iptv.com:80/live/douglas/douglas/742.ts
+#EXTINF:-1,UK_FOX
+http://vip-iptv.com:80/live/douglas/douglas/571.ts
+#EXTINF:-1,UK_Disney Channel
+http://vip-iptv.com:80/live/douglas/douglas/1161.ts
+#EXTINF:-1,UK_Disney XD
+http://vip-iptv.com:80/live/douglas/douglas/1160.ts
+#EXTINF:-1,UK_Disney Jr
+http://vip-iptv.com:80/live/douglas/douglas/359.ts
+#EXTINF:-1,UK_Discovery
+http://vip-iptv.com:80/live/douglas/douglas/578.ts
+#EXTINF:-1,UK_DiscoveryTurbo
+http://vip-iptv.com:80/live/douglas/douglas/451.ts
+#EXTINF:-1,UK_Discovery Science
+http://vip-iptv.com:80/live/douglas/douglas/575.ts
+#EXTINF:-1,UK_Discovery History
+http://vip-iptv.com:80/live/douglas/douglas/579.ts
+#EXTINF:-1,UK_Discovery Home Health
+http://vip-iptv.com:80/live/douglas/douglas/24.ts
+#EXTINF:-1,UK_National Geographic
+http://vip-iptv.com:80/live/douglas/douglas/618.ts
+#EXTINF:-1,UK_Nat Geo Wild
+http://vip-iptv.com:80/live/douglas/douglas/531.ts
+#EXTINF:-1,UK_Animal Planet
+http://vip-iptv.com:80/live/douglas/douglas/441.ts
+#EXTINF:-1,UK_Eden
+http://vip-iptv.com:80/live/douglas/douglas/1155.ts
+#EXTINF:-1,UK_History
+http://vip-iptv.com:80/live/douglas/douglas/1159.ts
+#EXTINF:-1,UK_Travel
+http://vip-iptv.com:80/live/douglas/douglas/89.ts
+#EXTINF:-1,UK_BT Sports 1
+http://vip-iptv.com:80/live/douglas/douglas/528.ts
+#EXTINF:-1,UK_BT Sports 2
+http://vip-iptv.com:80/live/douglas/douglas/350.ts
+#EXTINF:-1,UK_Sky Sports 1
+http://vip-iptv.com:80/live/douglas/douglas/290.ts
+#EXTINF:-1,UK_Sky Sports 2
+http://vip-iptv.com:80/live/douglas/douglas/291.ts
+#EXTINF:-1,UK_Sky Sports 3
+http://vip-iptv.com:80/live/douglas/douglas/353.ts
+#EXTINF:-1,UK_Sky Sports 4
+http://vip-iptv.com:80/live/douglas/douglas/354.ts
+#EXTINF:-1,UK_Sky Sports 5
+http://vip-iptv.com:80/live/douglas/douglas/355.ts
+#EXTINF:-1,UK_Sky Sports F1
+http://vip-iptv.com:80/live/douglas/douglas/427.ts
+#EXTINF:-1,UK_Chelsea TV
+http://vip-iptv.com:80/live/douglas/douglas/748.ts
+#EXTINF:-1,UK_Manchester United TV
+http://vip-iptv.com:80/live/douglas/douglas/944.ts
+#EXTINF:-1,UK_At The Races
+http://vip-iptv.com:80/live/douglas/douglas/1162.ts
+#EXTINF:-1,Pink World
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/558.ts
+#EXTINF:-1,Pink Western
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/471.ts
+#EXTINF:-1,Pink Thriller
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/578.ts
+#EXTINF:-1,Pink Soap
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/465.ts
+#EXTINF:-1,Pink Romance
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/569.ts
+#EXTINF:-1,Pink Premium
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/560.ts
+#EXTINF:-1,Pink Pedia
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/561.ts
+#EXTINF:-1,Pink Nostalgia
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/562.ts
+#EXTINF:-1,Pink Musik 5
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/563.ts
+#EXTINF:-1,Pink Musik 4
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/564.ts
+#EXTINF:-1,Pink Movies 3
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/863.ts
+#EXTINF:-1,Pink Movies 2
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/862.ts
+#EXTINF:-1,Pink Movies 1
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/570.ts
+#EXTINF:-1,Pink M
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/571.ts
+#EXTINF:-1,Pink Kids
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/470.ts
+#EXTINF:-1,Pink Horror
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/573.ts
+#EXTINF:-1,Pink Extra
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/469.ts
+#EXTINF:-1,Pink Crime & Mistery
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/577.ts
+#EXTINF:-1,Pink Comedy
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/468.ts
+#EXTINF:-1,Pink Action 3
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/861.ts
+#EXTINF:-1,Pink Action 2
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/860.ts
+#EXTINF:-1,Pink Action 1
+http://iptv.kicks-ass.net:8005/live/hasani/hasani/579.ts
+
+
+#EXTM3U
 #EXTINF:-1, tvg-logo="IFC East.png" group-title="Entertainments",IFC East
 http://iptvcanales.com/xw/premium.php?cmd=164
 #EXTINF:-1, tvg-logo="Food Network East.png" group-title="Information",Food Network East
